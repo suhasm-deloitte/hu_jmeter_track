@@ -1,0 +1,986 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1650009316231,953,Contact-424,200,OK,Contacts 5-6,text,true,,5300,536,20,28,https://www.demoblaze.com/index.html,949,0,877
+1650009316180,1004,Contact-424,200,OK,Contacts 5-5,text,true,,19902,536,20,28,https://www.demoblaze.com/index.html,998,0,928
+1650009316524,659,Contact-424,200,OK,Contacts 5-12,text,true,,5345,536,20,28,https://www.demoblaze.com/index.html,655,0,584
+1650009316885,298,Contact-424,200,OK,Contacts 5-19,text,true,,5059,536,20,28,https://www.demoblaze.com/index.html,295,0,223
+1650009316826,357,Contact-424,200,OK,Contacts 5-18,text,true,,5115,536,20,28,https://www.demoblaze.com/index.html,353,0,282
+1650009316280,903,Contact-424,200,OK,Contacts 5-7,text,true,,4952,536,20,28,https://www.demoblaze.com/index.html,899,0,828
+1650009316628,556,Contact-424,200,OK,Contacts 5-14,text,true,,4969,536,20,28,https://www.demoblaze.com/index.html,551,0,480
+1650009316728,455,Contact-424,200,OK,Contacts 5-16,text,true,,5172,536,20,28,https://www.demoblaze.com/index.html,452,0,380
+1650009316229,953,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-6,,true,,5300,536,20,28,null,949,6,877
+1650009316178,1004,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-5,,true,,19902,536,20,28,null,998,6,928
+1650009316883,298,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-19,,true,,5059,536,20,28,null,295,7,223
+1650009316727,455,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-16,,true,,5172,536,20,28,null,452,6,380
+1650009316151,1032,Contact-424,200,OK,Contacts 5-4,text,true,,5009,536,20,28,https://www.demoblaze.com/index.html,1028,0,957
+1650009316331,852,Contact-424,200,OK,Contacts 5-8,text,true,,4976,536,20,28,https://www.demoblaze.com/index.html,848,0,777
+1650009316379,804,Contact-424,200,OK,Contacts 5-9,text,true,,5246,536,20,28,https://www.demoblaze.com/index.html,800,0,729
+1650009316824,357,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-18,,true,,5115,536,20,28,null,353,8,282
+1650009316151,1032,Contact-424,200,OK,Contacts 5-3,text,true,,4999,536,20,28,https://www.demoblaze.com/index.html,1028,0,957
+1650009316523,659,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-12,,true,,5345,536,20,28,null,655,6,584
+1650009316278,903,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-7,,true,,4952,536,20,28,null,899,7,828
+1650009316626,556,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-14,,true,,4969,536,20,28,null,551,6,480
+1650009316330,852,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-8,,true,,4976,536,20,28,null,848,7,777
+1650009316479,704,Contact-424,200,OK,Contacts 5-11,text,true,,5273,536,20,28,https://www.demoblaze.com/index.html,701,0,629
+1650009316377,804,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-9,,true,,5246,536,20,28,null,800,8,729
+1650009316128,1032,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-4,,true,,5009,536,20,28,null,1028,29,957
+1650009316084,1032,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-3,,true,,4999,536,20,28,null,1028,73,957
+1650009316477,704,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-11,,true,,5273,536,20,28,null,701,8,629
+1650009316151,1213,login,200,OK,Login 2-1,text,true,,449,477,2,15,https://api.demoblaze.com/login,1213,0,957
+1650009316981,383,signup,200,OK,Signup  1-2,text,true,,449,478,2,15,https://api.demoblaze.com/signup,383,0,127
+1650009316151,1214,signup,200,OK,Signup  1-1,text,true,,449,478,2,15,https://api.demoblaze.com/signup,1214,0,957
+1650009316151,1215,login,200,OK,InvalidLogin 3-1,text,true,,449,477,2,15,https://api.demoblaze.com/login,1215,0,957
+1650009316799,571,Contact-424,200,OK,Contacts 5-17,text,true,,19906,536,7,15,https://www.demoblaze.com/index.html,554,0,309
+1650009316794,571,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-17,,true,,19906,536,7,15,null,554,5,309
+1650009316677,696,Contact-424,200,OK,Contacts 5-15,text,true,,19902,536,6,14,https://www.demoblaze.com/index.html,679,0,431
+1650009316151,1222,Login-38,200,OK,AddToCart 4-1,text,true,,449,477,2,14,https://api.demoblaze.com/login,1222,0,957
+1650009316431,942,Contact-424,200,OK,Contacts 5-10,text,true,,19906,536,6,14,https://www.demoblaze.com/index.html,926,0,677
+1650009316676,696,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-15,,true,,19902,536,6,14,null,679,1,431
+1650009316429,942,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-10,,true,,19906,536,6,14,null,926,2,677
+1650009316978,398,login,200,OK,InvalidLogin 3-2,text,true,,449,477,2,12,https://api.demoblaze.com/login,398,0,130
+1650009316151,1226,Contact-424,200,OK,Contacts 5-1,text,true,,19902,536,4,12,https://www.demoblaze.com/index.html,1209,0,957
+1650009316001,1226,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-1,,true,,19902,536,4,12,null,1209,148,957
+1650009316978,399,login,200,OK,Login 2-2,text,true,,449,477,2,12,https://api.demoblaze.com/login,399,0,130
+1650009316151,1227,Contact-424,200,OK,Contacts 5-2,text,true,,19902,536,4,12,https://www.demoblaze.com/index.html,1212,0,957
+1650009316991,387,Login-38,200,OK,AddToCart 4-2,text,true,,449,477,2,12,https://api.demoblaze.com/login,387,0,117
+1650009316924,454,Contact-424,200,OK,Contacts 5-20,text,true,,19902,536,4,12,https://www.demoblaze.com/index.html,438,0,184
+1650009316922,454,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-20,,true,,19902,536,4,12,null,438,2,184
+1650009316038,1227,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-2,,true,,19902,536,4,12,null,1212,113,957
+1650009316575,803,Contact-424,200,OK,Contacts 5-13,text,true,,19906,536,3,11,https://www.demoblaze.com/index.html,787,0,533
+1650009316574,803,Contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Contacts 5-13,,true,,19906,536,3,11,null,787,2,533
+1650009317369,321,login-ren,200,OK,InvalidLogin 3-1,text,true,,517,482,2,8,https://api.demoblaze.com/login,320,0,0
+1650009317374,408,Login-39,200,OK,AddToCart 4-1,text,true,,656,487,2,7,https://api.demoblaze.com/login,408,0,0
+1650009317369,413,signup - rick127,200,OK,Signup  1-1,text,false,"Test failed: text expected to contain /""""/",614,488,2,7,https://api.demoblaze.com/signup,413,0,0
+1650009315999,1630,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-1,,true,,1105,964,2,7,null,1630,152,957
+1650009315980,1627,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-1,,false,,1063,966,2,7,null,1627,174,957
+1650009317369,417,signup - reen1,200,OK,Signup  1-2,text,false,"Test failed: text expected to contain /""""/",587,486,2,7,https://api.demoblaze.com/signup,416,0,0
+1650009316979,800,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-2,,false,,1036,964,2,7,null,799,7,127
+1650009317369,500,login-rick127,200,OK,Login 2-1,text,true,,619,487,2,5,https://api.demoblaze.com/login,500,0,0
+1650009317376,493,login-ken,200,OK,InvalidLogin 3-2,text,false,Test failed: text expected to contain /User does not exist./,463,482,1,5,https://api.demoblaze.com/login,493,0,0
+1650009317378,491,login-reen1,200,OK,Login 2-2,text,true,,634,485,2,5,https://api.demoblaze.com/login,491,0,0
+1650009317378,496,Login-39,200,OK,AddToCart 4-2,text,true,,537,485,2,2,https://api.demoblaze.com/login,495,0,0
+1650009316990,883,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-2,,true,,986,962,2,2,null,882,1,117
+1650009317783,243,Item1-80,200,OK,AddToCart 4-1,text,true,,449,476,3,6,https://api.demoblaze.com/view,243,0,0
+1650009317876,259,Item1-80,200,OK,AddToCart 4-2,text,true,,449,476,3,6,https://api.demoblaze.com/view,259,0,0
+1650009318026,250,Item1-84,200,OK,AddToCart 4-1,text,true,,449,481,3,6,https://api.demoblaze.com/addtocart,250,0,0
+1650009317975,330,login,200,OK,Login 2-3,text,true,,449,477,1,6,https://api.demoblaze.com/login,330,0,79
+1650009317975,335,login,200,OK,InvalidLogin 3-3,text,true,,449,477,1,6,https://api.demoblaze.com/login,335,0,79
+1650009317980,330,signup,200,OK,Signup  1-3,text,true,,449,478,1,6,https://api.demoblaze.com/signup,330,0,74
+1650009317985,382,Login-38,200,OK,AddToCart 4-3,text,true,,449,477,3,6,https://api.demoblaze.com/login,382,0,84
+1650009318136,335,Item1-84,200,OK,AddToCart 4-2,text,true,,449,481,3,6,https://api.demoblaze.com/addtocart,335,0,0
+1650009318311,379,signup - stokes12,200,OK,Signup  1-3,text,false,"Test failed: text expected to contain /""""/",628,489,1,6,https://api.demoblaze.com/signup,378,0,0
+1650009317979,709,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-3,,false,,1077,967,1,6,null,708,3,74
+1650009318306,463,login-stokes12,200,OK,Login 2-3,text,true,,654,488,1,5,https://api.demoblaze.com/login,461,0,0
+1650009318311,461,login-joe,200,OK,InvalidLogin 3-3,text,false,Test failed: text expected to contain /User does not exist./,593,482,1,4,https://api.demoblaze.com/login,459,0,0
+1650009318277,495,Item1-85,200,OK,AddToCart 4-1,text,true,,307,553,3,4,https://api.demoblaze.com/addtocart,495,0,0
+1650009318369,500,Login-39,200,OK,AddToCart 4-3,text,true,,562,488,3,3,https://api.demoblaze.com/login,498,0,0
+1650009317984,882,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-3,,true,,1011,965,3,3,null,880,3,84
+1650009318472,402,Item1-85,200,OK,AddToCart 4-2,text,true,,307,553,3,3,https://api.demoblaze.com/addtocart,402,0,0
+1650009318774,133,Item1-89,200,OK,AddToCart 4-1,text,true,,5089,517,3,3,https://www.demoblaze.com/index.html,130,0,83
+1650009317783,1121,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-1,,true,,6294,2027,3,3,null,1118,3,83
+1650009318875,119,Item1-89,200,OK,AddToCart 4-2,text,true,,5186,517,4,7,https://www.demoblaze.com/index.html,115,0,69
+1650009317875,1115,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-2,,true,,6391,2027,4,7,null,1111,5,69
+1650009318870,251,Item1-80,200,OK,AddToCart 4-3,text,true,,449,476,4,7,https://api.demoblaze.com/view,251,0,0
+1650009318908,254,Item2-106,200,OK,AddToCart 4-1,text,true,,5482,517,4,7,https://www.demoblaze.com/prod.html?idp_=5,251,0,0
+1650009318996,255,Item2-106,200,OK,AddToCart 4-2,text,true,,5673,517,4,7,https://www.demoblaze.com/prod.html?idp_=5,250,0,0
+1650009318976,332,login,200,OK,Login 2-4,text,true,,449,477,1,7,https://api.demoblaze.com/login,332,0,80
+1650009318979,331,Login-38,200,OK,AddToCart 4-4,text,true,,449,477,4,7,https://api.demoblaze.com/login,331,0,76
+1650009318976,342,login,200,OK,InvalidLogin 3-4,text,true,,449,477,1,7,https://api.demoblaze.com/login,342,0,82
+1650009318976,346,signup,200,OK,Signup  1-4,text,true,,449,478,1,7,https://api.demoblaze.com/signup,346,0,91
+1650009319122,259,Item1-84,200,OK,AddToCart 4-3,text,true,,449,481,4,7,https://api.demoblaze.com/addtocart,259,0,0
+1650009319163,253,Item2-121,200,OK,AddToCart 4-1,text,true,,449,481,4,7,https://api.demoblaze.com/addtocart,253,0,0
+1650009319252,254,Item2-121,200,OK,AddToCart 4-2,text,true,,449,481,4,7,https://api.demoblaze.com/addtocart,254,0,0
+1650009319323,267,signup - virat12,200,OK,Signup  1-4,text,false,"Test failed: text expected to contain /""""/",683,488,1,7,https://api.demoblaze.com/signup,265,0,0
+1650009318975,613,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-4,,false,,1132,966,1,7,null,611,3,91
+1650009319319,354,login-shawm,200,OK,InvalidLogin 3-4,text,true,,529,484,1,6,https://api.demoblaze.com/login,353,0,0
+1650009319308,371,login-virat12,200,OK,Login 2-4,text,true,,622,487,1,5,https://api.demoblaze.com/login,370,0,0
+1650009319310,462,Login-39,200,OK,AddToCart 4-4,text,true,,595,487,4,4,https://api.demoblaze.com/login,459,0,0
+1650009318977,793,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-4,,true,,1044,964,4,4,null,790,2,76
+1650009319382,484,Item1-85,200,OK,AddToCart 4-3,text,true,,307,553,4,4,https://api.demoblaze.com/addtocart,484,0,0
+1650009319417,449,Item2-122,200,OK,AddToCart 4-1,text,true,,307,553,4,4,https://api.demoblaze.com/addtocart,449,0,0
+1650009319507,362,Item2-122,200,OK,AddToCart 4-2,text,true,,307,553,4,4,https://api.demoblaze.com/addtocart,362,0,0
+1650009319870,49,Item2-123,200,OK,AddToCart 4-2,text,true,,5202,517,4,4,https://www.demoblaze.com/index.html,45,0,0
+1650009318995,920,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-2,,true,,11631,2068,4,4,null,911,4,0
+1650009319867,69,Item2-123,200,OK,AddToCart 4-1,text,true,,19906,517,4,4,https://www.demoblaze.com/index.html,50,0,0
+1650009318908,1025,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-1,,true,,26144,2068,4,4,null,1003,3,0
+1650009319868,120,Item1-89,200,OK,AddToCart 4-3,text,true,,5026,517,5,8,https://www.demoblaze.com/index.html,120,0,73
+1650009318869,1114,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-3,,true,,6231,2027,5,8,null,1114,6,73
+1650009319773,264,Item1-80,200,OK,AddToCart 4-4,text,true,,449,476,5,8,https://api.demoblaze.com/view,264,0,0
+1650009319989,49,Item2-106,200,OK,AddToCart 4-3,text,true,,5426,517,5,8,https://www.demoblaze.com/prod.html?idp_=5,48,0,0
+1650009319919,252,Item3-149,200,OK,AddToCart 4-2,text,true,,5609,517,5,8,https://www.demoblaze.com/prod.html?idp_=8,249,0,0
+1650009319937,244,Item3-149,200,OK,AddToCart 4-1,text,true,,5539,517,5,8,https://www.demoblaze.com/prod.html?idp_=8,243,0,0
+1650009320038,259,Item1-84,200,OK,AddToCart 4-4,text,true,,449,481,5,8,https://api.demoblaze.com/addtocart,259,0,0
+1650009320038,260,Item2-121,200,OK,AddToCart 4-3,text,true,,449,481,5,8,https://api.demoblaze.com/addtocart,260,0,0
+1650009319970,345,signup,200,OK,Signup  1-5,text,true,,449,478,1,8,https://api.demoblaze.com/signup,345,0,70
+1650009319972,344,Login-38,200,OK,AddToCart 4-5,text,true,,449,477,5,8,https://api.demoblaze.com/login,344,0,86
+1650009319974,341,login,200,OK,Login 2-5,text,true,,449,477,1,8,https://api.demoblaze.com/login,341,0,85
+1650009319976,340,login,200,OK,InvalidLogin 3-5,text,true,,449,477,1,8,https://api.demoblaze.com/login,340,0,78
+1650009320172,254,Item3-156,200,OK,AddToCart 4-2,text,true,,449,481,5,8,https://api.demoblaze.com/addtocart,254,0,0
+1650009320182,288,Item3-156,200,OK,AddToCart 4-1,text,true,,449,481,5,8,https://api.demoblaze.com/addtocart,288,0,0
+1650009320316,274,login-mack,200,OK,InvalidLogin 3-5,text,true,,461,483,1,8,https://api.demoblaze.com/login,274,0,0
+1650009320299,295,Item2-122,200,OK,AddToCart 4-3,text,true,,307,553,5,7,https://api.demoblaze.com/addtocart,295,0,0
+1650009320298,309,Item1-85,200,OK,AddToCart 4-4,text,true,,307,553,5,7,https://api.demoblaze.com/addtocart,309,0,0
+1650009320316,372,signup - ken12,200,OK,Signup  1-5,text,false,"Test failed: text expected to contain /""""/",667,486,1,7,https://api.demoblaze.com/signup,371,0,0
+1650009319969,717,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-5,,false,,1116,964,1,7,null,716,3,70
+1650009320316,408,Login-39,200,OK,AddToCart 4-5,text,true,,555,485,5,6,https://api.demoblaze.com/login,406,0,0
+1650009319971,752,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-5,,true,,1004,962,5,6,null,750,1,86
+1650009320470,290,Item3-157,200,OK,AddToCart 4-1,text,true,,307,553,5,6,https://api.demoblaze.com/addtocart,290,0,0
+1650009320609,156,Item1-89,200,OK,AddToCart 4-4,text,true,,19906,517,5,6,https://www.demoblaze.com/index.html,149,0,73
+1650009319773,988,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-4,,true,,21111,2027,5,6,null,981,5,73
+1650009320317,450,login-ken12,200,OK,Login 2-5,text,true,,561,485,1,6,https://api.demoblaze.com/login,449,0,0
+1650009320760,48,Item3-158,200,OK,AddToCart 4-1,text,true,,5155,517,5,5,https://www.demoblaze.com/index.html,46,0,0
+1650009319936,870,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-1,,true,,11450,2068,5,5,null,867,3,0
+1650009320766,45,Item2-106,200,OK,AddToCart 4-4,text,true,,5553,517,5,5,https://www.demoblaze.com/prod.html?idp_=5,44,0,0
+1650009320595,253,Item2-123,200,OK,AddToCart 4-3,text,true,,5077,517,5,5,https://www.demoblaze.com/index.html,249,0,0
+1650009319989,857,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-3,,true,,11259,2068,5,5,null,852,3,0
+1650009320426,444,Item3-157,200,OK,AddToCart 4-2,text,true,,307,553,5,5,https://api.demoblaze.com/addtocart,444,0,0
+1650009320849,47,Item3-149,200,OK,AddToCart 4-3,text,true,,5604,517,5,5,https://www.demoblaze.com/prod.html?idp_=8,44,0,0
+1650009320871,47,Item3-158,200,OK,AddToCart 4-2,text,true,,5035,517,5,5,https://www.demoblaze.com/index.html,44,0,0
+1650009319919,997,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-2,,true,,11400,2068,5,5,null,991,2,0
+1650009320725,263,Item1-80,200,OK,AddToCart 4-5,text,true,,449,476,6,9,https://api.demoblaze.com/view,263,0,0
+1650009320809,275,Item4-184,200,OK,AddToCart 4-1,text,true,,5535,517,6,9,https://www.demoblaze.com/prod.html?idp_=9,272,0,0
+1650009320812,276,Item2-121,200,OK,AddToCart 4-4,text,true,,449,481,6,9,https://api.demoblaze.com/addtocart,276,0,0
+1650009320919,252,Item4-184,200,OK,AddToCart 4-2,text,true,,5341,517,6,9,https://www.demoblaze.com/prod.html?idp_=9,248,0,0
+1650009320897,288,Item3-156,200,OK,AddToCart 4-3,text,true,,449,481,6,9,https://api.demoblaze.com/addtocart,288,0,0
+1650009320989,261,Item1-84,200,OK,AddToCart 4-5,text,true,,449,481,6,9,https://api.demoblaze.com/addtocart,261,0,0
+1650009320971,323,login,200,OK,Login 2-6,text,true,,449,477,1,9,https://api.demoblaze.com/login,323,0,67
+1650009320970,326,login,200,OK,InvalidLogin 3-6,text,true,,449,477,1,9,https://api.demoblaze.com/login,326,0,69
+1650009320971,337,signup,200,OK,Signup  1-6,text,true,,449,478,1,9,https://api.demoblaze.com/signup,337,0,68
+1650009320972,338,Login-38,200,OK,AddToCart 4-6,text,true,,449,477,6,9,https://api.demoblaze.com/login,338,0,66
+1650009321085,253,Item4-190,200,OK,AddToCart 4-1,text,true,,449,481,6,9,https://api.demoblaze.com/addtocart,253,0,0
+1650009321088,314,Item2-122,200,OK,AddToCart 4-4,text,true,,307,553,6,9,https://api.demoblaze.com/addtocart,314,0,0
+1650009321171,318,Item4-190,200,OK,AddToCart 4-2,text,true,,449,481,6,9,https://api.demoblaze.com/addtocart,318,0,0
+1650009321186,337,Item3-157,200,OK,AddToCart 4-3,text,true,,307,553,6,9,https://api.demoblaze.com/addtocart,337,0,0
+1650009321523,62,Item3-158,200,OK,AddToCart 4-3,text,true,,19906,517,6,9,https://www.demoblaze.com/index.html,45,0,0
+1650009320849,734,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-3,,true,,26266,2068,6,9,null,714,2,0
+1650009321251,369,Item1-85,200,OK,AddToCart 4-5,text,true,,307,553,6,9,https://api.demoblaze.com/addtocart,369,0,0
+1650009321296,340,login-zack,200,OK,InvalidLogin 3-6,text,true,,626,483,1,9,https://api.demoblaze.com/login,338,0,0
+1650009321403,253,Item2-123,200,OK,AddToCart 4-4,text,true,,19902,517,6,8,https://www.demoblaze.com/index.html,247,0,0
+1650009320766,888,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-4,,true,,26211,2068,6,8,null,881,2,0
+1650009321295,405,login-kelvin12,200,OK,Login 2-6,text,true,,456,488,1,8,https://api.demoblaze.com/login,404,0,0
+1650009321621,141,Item1-89,200,OK,AddToCart 4-5,text,true,,19906,517,6,7,https://www.demoblaze.com/index.html,124,0,79
+1650009320724,1034,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-5,,true,,21111,2027,6,7,null,1017,4,79
+1650009321310,453,Login-39,200,OK,AddToCart 4-6,text,true,,610,488,6,7,https://api.demoblaze.com/login,450,0,0
+1650009320971,791,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-6,,true,,1059,965,6,7,null,788,1,66
+1650009321309,463,signup - kelvin12,200,OK,Signup  1-6,text,false,"Test failed: text expected to contain /""""/",590,489,1,7,https://api.demoblaze.com/signup,461,0,0
+1650009320970,800,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-6,,false,,1039,967,1,7,null,798,2,68
+1650009321338,464,Item4-191,200,OK,AddToCart 4-1,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,464,0,0
+1650009321763,48,Item2-106,200,OK,AddToCart 4-5,text,true,,5574,517,6,6,https://www.demoblaze.com/prod.html?idp_=5,47,0,0
+1650009321586,253,Item4-184,200,OK,AddToCart 4-3,text,true,,5749,517,6,6,https://www.demoblaze.com/prod.html?idp_=9,250,0,0
+1650009321803,49,Item4-192,200,OK,AddToCart 4-1,text,true,,5223,517,6,6,https://www.demoblaze.com/index.html,47,0,0
+1650009320809,1041,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-1,,true,,11514,2068,6,6,null,1036,2,0
+1650009321657,247,Item3-149,200,OK,AddToCart 4-4,text,true,,5529,517,6,6,https://www.demoblaze.com/prod.html?idp_=8,246,0,0
+1650009321853,52,Cart-218,200,OK,AddToCart 4-1,text,true,,5977,510,6,6,https://www.demoblaze.com/cart.html,49,0,0
+1650009321489,438,Item4-191,200,OK,AddToCart 4-2,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,438,0,0
+1650009321927,60,Item4-192,200,OK,AddToCart 4-2,text,true,,19906,517,7,10,https://www.demoblaze.com/index.html,44,0,0
+1650009320918,1068,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-2,,true,,26003,2068,7,10,null,1048,1,0
+1650009321763,254,Item1-80,200,OK,AddToCart 4-6,text,true,,449,476,7,10,https://api.demoblaze.com/view,254,0,0
+1650009321987,50,Cart-218,200,OK,AddToCart 4-2,text,true,,5849,510,7,10,https://www.demoblaze.com/cart.html,46,0,0
+1650009321812,270,Item2-121,200,OK,AddToCart 4-5,text,true,,449,481,7,10,https://api.demoblaze.com/addtocart,270,0,0
+1650009321839,266,Item4-190,200,OK,AddToCart 4-3,text,true,,449,481,7,10,https://api.demoblaze.com/addtocart,266,0,0
+1650009321905,258,Item3-156,200,OK,AddToCart 4-4,text,true,,449,481,7,10,https://api.demoblaze.com/addtocart,258,0,0
+1650009321906,311,Cart-225,200,OK,AddToCart 4-1,text,true,,449,480,7,10,https://api.demoblaze.com/viewcart,311,0,0
+1650009321852,363,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-1,,true,,6426,990,7,10,null,360,3,0
+1650009322038,253,Cart-225,200,OK,AddToCart 4-2,text,true,,449,480,7,10,https://api.demoblaze.com/viewcart,253,0,0
+1650009321987,303,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-2,,true,,6298,990,7,10,null,299,1,0
+1650009322018,281,Item1-84,200,OK,AddToCart 4-6,text,true,,449,481,7,10,https://api.demoblaze.com/addtocart,281,0,0
+1650009321967,400,login,200,OK,InvalidLogin 3-7,text,true,,449,477,1,10,https://api.demoblaze.com/login,400,0,83
+1650009321968,404,login,200,OK,Login 2-7,text,true,,449,477,1,10,https://api.demoblaze.com/login,404,0,84
+1650009321971,409,Login-38,200,OK,AddToCart 4-7,text,true,,449,477,7,10,https://api.demoblaze.com/login,409,0,81
+1650009321971,412,signup,200,OK,Signup  1-7,text,true,,449,478,1,10,https://api.demoblaze.com/signup,412,0,81
+1650009322082,385,Item2-122,200,OK,AddToCart 4-5,text,true,,307,553,7,10,https://api.demoblaze.com/addtocart,385,0,0
+1650009322105,405,Item4-191,200,OK,AddToCart 4-3,text,true,,307,553,7,10,https://api.demoblaze.com/addtocart,405,0,0
+1650009322467,50,Item2-123,200,OK,AddToCart 4-5,text,true,,5018,517,7,10,https://www.demoblaze.com/index.html,47,0,0
+1650009321763,753,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-5,,true,,11348,2068,7,10,null,749,1,0
+1650009322510,49,Item4-192,200,OK,AddToCart 4-3,text,true,,5291,517,7,10,https://www.demoblaze.com/index.html,46,0,0
+1650009321585,973,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-3,,true,,11796,2068,7,10,null,967,1,0
+1650009322518,47,Item3-149,200,OK,AddToCart 4-5,text,true,,5629,517,7,10,https://www.demoblaze.com/prod.html?idp_=8,46,0,0
+1650009322163,431,Item3-157,200,OK,AddToCart 4-4,text,true,,307,553,7,10,https://api.demoblaze.com/addtocart,431,0,0
+1650009322559,51,Cart-218,200,OK,AddToCart 4-3,text,true,,5928,510,7,10,https://www.demoblaze.com/cart.html,48,0,0
+1650009322594,44,Item3-158,200,OK,AddToCart 4-4,text,true,,4943,517,7,10,https://www.demoblaze.com/index.html,43,0,0
+1650009321656,980,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-4,,true,,11228,2068,7,10,null,978,2,0
+1650009322383,274,signup - calvin12,200,OK,Signup  1-7,text,false,"Test failed: text expected to contain /""""/",654,489,1,10,https://api.demoblaze.com/signup,272,0,0
+1650009321970,686,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-7,,false,,1103,967,1,10,null,684,1,81
+1650009322218,471,Delete1-237,200,OK,AddToCart 4-1,text,true,,449,482,7,9,https://api.demoblaze.com/deleteitem,471,0,0
+1650009322292,421,Delete1-237,200,OK,AddToCart 4-2,text,true,,449,482,7,9,https://api.demoblaze.com/deleteitem,421,0,0
+1650009322299,469,Item1-85,200,OK,AddToCart 4-6,text,true,,307,553,7,9,https://api.demoblaze.com/addtocart,469,0,0
+1650009322367,497,login-kinny,200,OK,InvalidLogin 3-7,text,true,,637,484,1,9,https://api.demoblaze.com/login,494,0,0
+1650009322639,241,Item4-184,200,OK,AddToCart 4-4,text,true,,5376,517,7,8,https://www.demoblaze.com/prod.html?idp_=9,240,0,0
+1650009322769,119,Item1-89,200,OK,AddToCart 4-6,text,true,,5223,517,7,8,https://www.demoblaze.com/index.html,115,0,69
+1650009321763,1123,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-6,,true,,6428,2027,7,8,null,1119,2,69
+1650009322372,560,login-calvin12,200,OK,Login 2-7,text,true,,659,488,1,8,https://api.demoblaze.com/login,559,0,0
+1650009322888,49,Item2-106,200,OK,AddToCart 4-6,text,true,,5693,517,7,7,https://www.demoblaze.com/prod.html?idp_=5,47,0,0
+1650009322380,613,Login-39,200,OK,AddToCart 4-7,text,true,,657,488,8,11,https://api.demoblaze.com/login,609,0,0
+1650009321970,1022,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-7,,true,,1106,965,8,11,null,1018,1,81
+1650009322566,524,Item3-156,200,OK,AddToCart 4-5,text,true,,449,481,8,11,https://api.demoblaze.com/addtocart,524,0,0
+1650009322611,481,Cart-225,200,OK,AddToCart 4-3,text,true,,449,480,8,11,https://api.demoblaze.com/viewcart,481,0,0
+1650009322559,532,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-3,,true,,6377,990,8,11,null,529,1,0
+1650009322690,464,Delete1-238,200,OK,AddToCart 4-1,text,true,,316,493,8,11,https://api.demoblaze.com/deleteitem,464,0,0
+1650009322713,485,Delete1-238,200,OK,AddToCart 4-2,text,true,,694,493,8,11,https://api.demoblaze.com/deleteitem,483,0,0
+1650009323155,66,Delete1-239,200,OK,AddToCart 4-1,text,true,,5834,482,8,11,https://www.demoblaze.com/cart.html,65,0,0
+1650009323198,46,Delete1-239,200,OK,AddToCart 4-2,text,true,,6034,482,8,11,https://www.demoblaze.com/cart.html,44,0,0
+1650009322881,394,Item4-190,200,OK,AddToCart 4-4,text,true,,449,481,8,11,https://api.demoblaze.com/addtocart,394,0,0
+1650009322938,339,Item2-121,200,OK,AddToCart 4-6,text,true,,449,481,8,11,https://api.demoblaze.com/addtocart,339,0,0
+1650009322994,298,Item1-80,200,OK,AddToCart 4-7,text,true,,449,476,8,11,https://api.demoblaze.com/view,298,0,0
+1650009322967,335,login,200,OK,InvalidLogin 3-8,text,true,,449,477,1,11,https://api.demoblaze.com/login,335,0,72
+1650009322965,350,Login-38,200,OK,AddToCart 4-8,text,true,,449,477,8,11,https://api.demoblaze.com/login,350,0,78
+1650009322970,397,signup,200,OK,Signup  1-8,text,true,,449,478,1,11,https://api.demoblaze.com/signup,397,0,67
+1650009322971,404,login,200,OK,Login 2-8,text,true,,449,477,1,11,https://api.demoblaze.com/login,404,0,68
+1650009323090,329,Item3-157,200,OK,AddToCart 4-5,text,true,,307,553,8,11,https://api.demoblaze.com/addtocart,329,0,0
+1650009323093,330,Delete1-237,200,OK,AddToCart 4-3,text,true,,449,482,8,11,https://api.demoblaze.com/deleteitem,330,0,0
+1650009323419,61,Item3-158,200,OK,AddToCart 4-5,text,true,,19906,517,8,11,https://www.demoblaze.com/index.html,47,0,0
+1650009322517,961,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-5,,true,,26291,2068,8,11,null,946,2,0
+1650009323221,272,Delete1-255,200,OK,AddToCart 4-1,text,true,,449,480,8,11,https://api.demoblaze.com/viewcart,272,0,0
+1650009322218,1273,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-1,,true,,7048,1937,8,11,null,1272,2,0
+1650009323245,252,Delete1-255,200,OK,AddToCart 4-2,text,true,,449,480,8,11,https://api.demoblaze.com/viewcart,252,0,0
+1650009322292,1204,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-2,,true,,7626,1937,8,11,null,1200,1,0
+1650009323481,47,Item4-184,200,OK,AddToCart 4-5,text,true,,5451,517,8,11,https://www.demoblaze.com/prod.html?idp_=9,45,0,0
+1650009323278,337,Item2-122,200,OK,AddToCart 4-6,text,true,,307,553,8,11,https://api.demoblaze.com/addtocart,337,0,0
+1650009323616,48,Item2-123,200,OK,AddToCart 4-6,text,true,,5235,517,8,11,https://www.demoblaze.com/index.html,45,0,0
+1650009322888,773,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-6,,true,,11684,2068,8,11,null,768,3,0
+1650009323276,398,Item4-191,200,OK,AddToCart 4-4,text,true,,307,553,8,11,https://api.demoblaze.com/addtocart,398,0,0
+1650009323423,272,Delete1-238,200,OK,AddToCart 4-3,text,true,,490,493,8,11,https://api.demoblaze.com/deleteitem,271,0,0
+1650009323664,51,Item3-149,200,OK,AddToCart 4-6,text,true,,5426,517,8,11,https://www.demoblaze.com/prod.html?idp_=8,47,0,0
+1650009323675,48,Item4-192,200,OK,AddToCart 4-4,text,true,,19906,517,8,11,https://www.demoblaze.com/index.html,43,0,0
+1650009322639,1081,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-4,,true,,26038,2068,8,11,null,1075,3,0
+1650009323293,441,Item1-84,200,OK,AddToCart 4-7,text,true,,449,481,8,11,https://api.demoblaze.com/addtocart,441,0,0
+1650009323695,49,Delete1-239,200,OK,AddToCart 4-3,text,true,,5979,482,8,11,https://www.demoblaze.com/cart.html,46,0,0
+1650009323303,453,login-rob,200,OK,InvalidLogin 3-8,text,false,Test failed: text expected to contain /User does not exist./,545,482,1,11,https://api.demoblaze.com/login,452,0,0
+1650009323316,515,Login-39,200,OK,AddToCart 4-8,text,true,,613,487,8,10,https://api.demoblaze.com/login,513,0,0
+1650009322964,865,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-8,,true,,1062,964,8,10,null,863,2,78
+1650009323367,520,signup - morty12,200,OK,Signup  1-8,text,false,"Test failed: text expected to contain /""""/",599,488,1,10,https://api.demoblaze.com/signup,520,0,0
+1650009322969,917,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-8,,false,,1048,966,1,10,null,917,1,67
+1650009323375,576,login-morty12,200,OK,Login 2-8,text,true,,562,487,1,9,https://api.demoblaze.com/login,574,0,0
+1650009323494,460,PlaceOrder-329,200,OK,AddToCart 4-1,text,true,,449,482,8,8,https://api.demoblaze.com/deletecart,460,0,0
+1650009323497,463,PlaceOrder-329,200,OK,AddToCart 4-2,text,true,,449,482,8,8,https://api.demoblaze.com/deletecart,463,0,0
+1650009323528,435,Item4-190,200,OK,AddToCart 4-5,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,435,0,0
+1650009323723,244,Cart-218,200,OK,AddToCart 4-4,text,true,,5766,510,9,10,https://www.demoblaze.com/cart.html,243,0,0
+1650009323715,375,Item3-156,200,OK,AddToCart 4-6,text,true,,449,481,9,12,https://api.demoblaze.com/addtocart,375,0,0
+1650009323735,430,Item1-85,200,OK,AddToCart 4-7,text,true,,307,553,9,12,https://api.demoblaze.com/addtocart,430,0,0
+1650009323745,428,Delete1-255,200,OK,AddToCart 4-3,text,true,,449,480,9,12,https://api.demoblaze.com/viewcart,428,0,0
+1650009323092,1079,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-3,,true,,7367,1937,9,12,null,1075,2,0
+1650009323832,433,Item1-80,200,OK,AddToCart 4-8,text,true,,449,476,9,12,https://api.demoblaze.com/view,433,0,0
+1650009324166,123,Item1-89,200,OK,AddToCart 4-7,text,true,,19906,517,9,12,https://www.demoblaze.com/index.html,106,0,61
+1650009322993,1292,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-7,,true,,21111,2027,9,12,null,1275,4,61
+1650009323954,359,PlaceOrder-330,200,OK,AddToCart 4-1,text,true,,316,468,9,12,https://api.demoblaze.com/deletecart,359,0,0
+1650009323493,819,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-1,,true,,765,950,9,12,null,819,2,0
+1650009324290,48,Item2-106,200,OK,AddToCart 4-7,text,true,,5598,517,8,11,https://www.demoblaze.com/prod.html?idp_=5,45,0,0
+1650009323960,391,PlaceOrder-330,200,OK,AddToCart 4-2,text,true,,316,466,8,11,https://api.demoblaze.com/deletecart,391,0,0
+1650009323497,854,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-2,,true,,765,948,8,11,null,854,0,0
+1650009323963,447,Item4-191,200,OK,AddToCart 4-5,text,true,,307,553,7,10,https://api.demoblaze.com/addtocart,447,0,0
+1650009323968,453,Cart-225,200,OK,AddToCart 4-4,text,true,,449,480,7,10,https://api.demoblaze.com/viewcart,453,0,0
+1650009323723,697,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-4,,true,,6215,990,7,10,null,696,1,0
+1650009324410,53,Item4-192,200,OK,AddToCart 4-5,text,true,,5138,517,7,10,https://www.demoblaze.com/index.html,51,0,0
+1650009323480,982,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-5,,true,,11345,2068,7,10,null,978,1,0
+1650009324266,253,Item1-84,200,OK,AddToCart 4-8,text,true,,449,481,7,10,https://api.demoblaze.com/addtocart,253,0,0
+1650009323967,600,Login-38,200,OK,AddToCart 4-9,text,true,,449,477,7,10,https://api.demoblaze.com/login,600,0,73
+1650009323971,609,login,200,OK,Login 2-9,text,true,,449,477,1,10,https://api.demoblaze.com/login,609,0,69
+1650009323969,611,signup,200,OK,Signup  1-9,text,true,,449,478,1,10,https://api.demoblaze.com/signup,611,0,71
+1650009323973,611,login,200,OK,InvalidLogin 3-9,text,true,,449,477,1,10,https://api.demoblaze.com/login,611,0,70
+1650009324091,594,Item3-157,200,OK,AddToCart 4-6,text,true,,307,553,7,10,https://api.demoblaze.com/addtocart,594,0,0
+1650009324463,249,Cart-218,200,OK,AddToCart 4-5,text,true,,5879,510,7,10,https://www.demoblaze.com/cart.html,247,0,0
+1650009324174,545,PlaceOrder-329,200,OK,AddToCart 4-3,text,true,,449,482,7,10,https://api.demoblaze.com/deletecart,545,0,0
+1650009324685,48,Item3-158,200,OK,AddToCart 4-6,text,true,,5031,517,7,10,https://www.demoblaze.com/index.html,45,0,0
+1650009323664,1068,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-6,,true,,11213,2068,7,10,null,1061,1,0
+1650009324733,48,Item4-184,200,OK,AddToCart 4-6,text,true,,5628,517,7,10,https://www.demoblaze.com/prod.html?idp_=9,45,0,0
+1650009324338,470,Item2-121,200,OK,AddToCart 4-7,text,true,,449,481,7,10,https://api.demoblaze.com/addtocart,470,0,0
+1650009324421,446,Delete1-237,200,OK,AddToCart 4-4,text,true,,449,482,7,10,https://api.demoblaze.com/deleteitem,446,0,0
+1650009324520,474,Item1-85,200,OK,AddToCart 4-8,text,true,,307,553,8,14,https://api.demoblaze.com/addtocart,474,0,0
+1650009324719,282,PlaceOrder-330,200,OK,AddToCart 4-3,text,true,,316,469,8,14,https://api.demoblaze.com/deletecart,282,0,0
+1650009324174,827,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-3,,true,,765,951,8,14,null,827,0,0
+1650009324567,493,Login-39,200,OK,AddToCart 4-9,text,true,,698,486,7,13,https://api.demoblaze.com/login,491,0,0
+1650009323965,1093,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-9,,true,,1147,963,7,13,null,1091,2,73
+1650009324580,503,signup - sean12,200,OK,Signup  1-9,text,false,"Test failed: text expected to contain /""""/",529,487,2,13,https://api.demoblaze.com/signup,503,0,0
+1650009323966,1114,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-9,,false,,978,965,2,13,null,1114,3,71
+1650009324584,517,login-dan,200,OK,InvalidLogin 3-9,text,false,Test failed: text expected to contain /User does not exist./,512,482,2,12,https://api.demoblaze.com/login,516,0,0
+1650009324995,118,Item1-89,200,OK,AddToCart 4-8,text,true,,5237,517,7,11,https://www.demoblaze.com/index.html,115,0,71
+1650009323831,1278,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-8,,true,,6442,2027,7,11,null,1275,4,71
+1650009324580,573,login-sean12,200,OK,Login 2-9,text,true,,577,486,2,11,https://api.demoblaze.com/login,573,0,0
+1650009325113,50,Item2-106,200,OK,AddToCart 4-8,text,true,,5609,517,7,10,https://www.demoblaze.com/prod.html?idp_=5,44,0,0
+1650009324713,490,Cart-225,200,OK,AddToCart 4-5,text,true,,449,480,7,10,https://api.demoblaze.com/viewcart,490,0,0
+1650009324463,739,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-5,,true,,6328,990,7,10,null,737,1,0
+1650009324781,424,Item4-190,200,OK,AddToCart 4-6,text,true,,449,481,7,10,https://api.demoblaze.com/addtocart,424,0,0
+1650009324967,324,login,200,OK,Login 2-10,text,true,,449,477,1,10,https://api.demoblaze.com/login,324,0,71
+1650009325061,251,Item1-80,200,OK,AddToCart 4-9,text,true,,449,476,7,10,https://api.demoblaze.com/view,251,0,0
+1650009324809,514,Item2-122,200,OK,AddToCart 4-7,text,true,,307,553,7,10,https://api.demoblaze.com/addtocart,514,0,0
+1650009324867,534,Delete1-238,200,OK,AddToCart 4-4,text,true,,316,493,7,10,https://api.demoblaze.com/deleteitem,534,0,0
+1650009325203,258,Delete1-237,200,OK,AddToCart 4-5,text,true,,449,482,7,10,https://api.demoblaze.com/deleteitem,258,0,0
+1650009324962,534,Login-38,200,OK,AddToCart 4-10,text,true,,449,477,7,10,https://api.demoblaze.com/login,534,0,66
+1650009324970,533,signup,200,OK,Signup  1-10,text,true,,449,478,1,10,https://api.demoblaze.com/signup,533,0,68
+1650009324969,545,login,200,OK,InvalidLogin 3-10,text,true,,449,477,1,10,https://api.demoblaze.com/login,545,0,69
+1650009325324,247,Item2-123,200,OK,AddToCart 4-7,text,true,,4928,517,7,10,https://www.demoblaze.com/index.html,245,0,0
+1650009324290,1279,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-7,,true,,11282,2068,7,10,null,1274,3,0
+1650009325164,478,Item2-121,200,OK,AddToCart 4-8,text,true,,449,481,7,10,https://api.demoblaze.com/addtocart,478,0,0
+1650009325402,249,Delete1-239,200,OK,AddToCart 4-4,text,true,,6103,482,7,10,https://www.demoblaze.com/cart.html,249,0,0
+1650009325205,500,Item4-191,200,OK,AddToCart 4-6,text,true,,307,553,7,10,https://api.demoblaze.com/addtocart,500,0,0
+1650009325705,48,Item4-192,200,OK,AddToCart 4-6,text,true,,5273,517,7,10,https://www.demoblaze.com/index.html,46,0,0
+1650009324733,1020,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-6,,true,,11657,2068,7,10,null,1015,1,0
+1650009325514,267,login-ten,200,OK,InvalidLogin 3-10,text,true,,663,482,1,10,https://api.demoblaze.com/login,265,0,0
+1650009325291,492,login-shaw12,200,OK,Login 2-10,text,true,,455,486,1,9,https://api.demoblaze.com/login,490,0,0
+1650009325313,475,Item1-84,200,OK,AddToCart 4-9,text,true,,449,481,7,8,https://api.demoblaze.com/addtocart,475,0,0
+1650009325754,55,Cart-218,200,OK,AddToCart 4-6,text,true,,5982,510,7,8,https://www.demoblaze.com/cart.html,51,0,0
+1650009325462,350,Delete1-238,200,OK,AddToCart 4-5,text,true,,660,493,7,8,https://api.demoblaze.com/deleteitem,349,0,0
+1650009325572,252,Item3-149,200,OK,AddToCart 4-7,text,true,,5465,517,7,8,https://www.demoblaze.com/prod.html?idp_=8,249,0,0
+1650009325812,52,Delete1-239,200,OK,AddToCart 4-5,text,true,,5920,482,7,8,https://www.demoblaze.com/cart.html,47,0,0
+1650009325497,496,Login-39,200,OK,AddToCart 4-10,text,true,,532,486,8,11,https://api.demoblaze.com/login,494,0,0
+1650009324960,1030,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-10,,true,,981,963,8,11,null,1028,4,66
+1650009325504,519,signup - shaw12,200,OK,Signup  1-10,text,false,"Test failed: text expected to contain /""""/",582,487,2,11,https://api.demoblaze.com/signup,519,0,0
+1650009324969,1052,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-10,,false,,1031,965,2,11,null,1052,2,68
+1650009325643,423,Item2-122,200,OK,AddToCart 4-8,text,true,,307,553,8,10,https://api.demoblaze.com/addtocart,423,0,0
+1650009325652,419,Delete1-255,200,OK,AddToCart 4-4,text,true,,449,480,8,10,https://api.demoblaze.com/viewcart,419,0,0
+1650009324421,1648,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-4,,true,,7317,1937,8,10,null,1648,2,0
+1650009326067,47,Item2-123,200,OK,AddToCart 4-8,text,true,,5240,517,8,10,https://www.demoblaze.com/index.html,45,0,0
+1650009325113,998,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-8,,true,,11605,2068,8,10,null,990,4,0
+1650009326115,51,Item3-149,200,OK,AddToCart 4-8,text,true,,5465,517,8,10,https://www.demoblaze.com/prod.html?idp_=8,49,0,0
+1650009325974,331,login,200,OK,Login 2-11,text,true,,449,477,1,10,https://api.demoblaze.com/login,331,0,77
+1650009325789,524,Item1-85,200,OK,AddToCart 4-9,text,true,,307,553,8,10,https://api.demoblaze.com/addtocart,524,0,0
+1650009325810,504,Cart-225,200,OK,AddToCart 4-6,text,true,,449,480,8,10,https://api.demoblaze.com/viewcart,504,0,0
+1650009325754,559,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-6,,true,,6431,990,8,10,null,555,1,0
+1650009325824,495,Item3-156,200,OK,AddToCart 4-7,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,495,0,0
+1650009325865,500,Delete1-255,200,OK,AddToCart 4-5,text,true,,449,480,8,10,https://api.demoblaze.com/viewcart,500,0,0
+1650009325203,1160,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-5,,true,,7478,1937,8,10,null,1154,2,0
+1650009325994,380,Item1-80,200,OK,AddToCart 4-10,text,true,,449,476,8,10,https://api.demoblaze.com/view,380,0,0
+1650009325963,428,signup,200,OK,Signup  1-11,text,true,,449,478,1,10,https://api.demoblaze.com/signup,428,0,76
+1650009326071,322,PlaceOrder-329,200,OK,AddToCart 4-4,text,true,,449,482,8,10,https://api.demoblaze.com/deletecart,322,0,0
+1650009325958,438,Login-38,200,OK,AddToCart 4-11,text,true,,449,477,8,10,https://api.demoblaze.com/login,438,0,78
+1650009326166,255,Item3-156,200,OK,AddToCart 4-8,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,255,0,0
+1650009326314,121,Item1-89,200,OK,AddToCart 4-9,text,true,,4904,517,8,10,https://www.demoblaze.com/index.html,118,0,74
+1650009325060,1371,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-9,,true,,6109,2027,8,10,null,1368,4,74
+1650009326306,361,login-robin12,200,OK,Login 2-11,text,true,,665,487,1,10,https://api.demoblaze.com/login,359,0,0
+1650009326314,367,Delete1-237,200,OK,AddToCart 4-6,text,true,,453,482,8,9,https://api.demoblaze.com/deleteitem,367,0,0
+1650009326435,254,Item2-106,200,OK,AddToCart 4-9,text,true,,5664,517,8,9,https://www.demoblaze.com/prod.html?idp_=5,249,0,0
+1650009326319,395,Item3-157,200,OK,AddToCart 4-7,text,true,,307,553,8,9,https://api.demoblaze.com/addtocart,395,0,0
+1650009326421,296,Item3-157,200,OK,AddToCart 4-8,text,true,,307,553,8,9,https://api.demoblaze.com/addtocart,296,0,0
+1650009326715,48,Item3-158,200,OK,AddToCart 4-7,text,true,,5019,517,8,9,https://www.demoblaze.com/index.html,45,0,0
+1650009325572,1190,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-7,,true,,11240,2068,8,9,null,1184,1,0
+1650009326365,403,PlaceOrder-329,200,OK,AddToCart 4-5,text,true,,449,482,8,9,https://api.demoblaze.com/deletecart,403,0,0
+1650009326374,396,Item1-84,200,OK,AddToCart 4-10,text,true,,449,481,8,9,https://api.demoblaze.com/addtocart,396,0,0
+1650009326717,59,Item3-158,200,OK,AddToCart 4-8,text,true,,19906,517,8,9,https://www.demoblaze.com/index.html,43,0,0
+1650009326115,661,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-8,,true,,26127,2068,8,9,null,643,0,0
+1650009326393,400,PlaceOrder-330,200,OK,AddToCart 4-4,text,true,,316,468,8,9,https://api.demoblaze.com/deletecart,400,0,0
+1650009326071,722,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-4,,true,,765,950,8,9,null,722,0,0
+1650009326391,419,signup - robin12,200,OK,Signup  1-11,text,false,"Test failed: text expected to contain /""""/",547,488,1,8,https://api.demoblaze.com/signup,417,0,0
+1650009325962,847,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-11,,false,,996,966,1,8,null,845,1,76
+1650009326763,48,Item4-184,200,OK,AddToCart 4-7,text,true,,5579,517,7,8,https://www.demoblaze.com/prod.html?idp_=9,45,0,0
+1650009326777,46,Item4-184,200,OK,AddToCart 4-8,text,true,,5536,517,7,7,https://www.demoblaze.com/prod.html?idp_=9,44,0,0
+1650009326396,520,Login-39,200,OK,AddToCart 4-11,text,true,,543,487,7,7,https://api.demoblaze.com/login,519,0,0
+1650009325957,958,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-11,,true,,992,964,7,7,null,957,2,78
+1650009326811,266,Item4-190,200,OK,AddToCart 4-7,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,266,0,0
+1650009326681,472,Delete1-238,200,OK,AddToCart 4-6,text,true,,316,493,8,10,https://api.demoblaze.com/deleteitem,472,0,0
+1650009326689,468,Item2-121,200,OK,AddToCart 4-9,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,468,0,0
+1650009327154,47,Delete1-239,200,OK,AddToCart 4-6,text,true,,5908,482,8,10,https://www.demoblaze.com/cart.html,44,0,0
+1650009326769,452,PlaceOrder-330,200,OK,AddToCart 4-5,text,true,,316,466,8,10,https://api.demoblaze.com/deletecart,451,0,0
+1650009326365,855,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-5,,true,,765,948,8,10,null,854,1,0
+1650009326771,491,Item1-85,200,OK,AddToCart 4-10,text,true,,307,553,7,9,https://api.demoblaze.com/addtocart,491,0,0
+1650009326824,442,Item4-190,200,OK,AddToCart 4-8,text,true,,449,481,7,9,https://api.demoblaze.com/addtocart,442,0,0
+1650009326917,380,Item1-80,200,OK,AddToCart 4-11,text,true,,449,476,7,9,https://api.demoblaze.com/view,380,0,0
+1650009326961,345,Login-38,200,OK,AddToCart 4-12,text,true,,449,477,7,9,https://api.demoblaze.com/login,345,0,64
+1650009326967,406,signup,200,OK,Signup  1-12,text,true,,449,478,1,9,https://api.demoblaze.com/signup,406,0,77
+1650009326964,410,login,200,OK,Login 2-12,text,true,,449,477,1,9,https://api.demoblaze.com/login,410,0,80
+1650009327264,113,Item1-89,200,OK,AddToCart 4-10,text,true,,5069,517,7,9,https://www.demoblaze.com/index.html,109,0,64
+1650009325994,1380,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-10,,true,,6274,2027,7,9,null,1376,3,64
+1650009327077,340,Item4-191,200,OK,AddToCart 4-7,text,true,,307,553,7,9,https://api.demoblaze.com/addtocart,340,0,0
+1650009327158,318,Item2-122,200,OK,AddToCart 4-9,text,true,,307,553,7,9,https://api.demoblaze.com/addtocart,318,0,0
+1650009327201,296,Delete1-255,200,OK,AddToCart 4-6,text,true,,449,480,7,9,https://api.demoblaze.com/viewcart,296,0,0
+1650009326314,1182,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-6,,true,,7126,1937,7,9,null,1179,1,0
+1650009327477,48,Item2-123,200,OK,AddToCart 4-9,text,true,,5045,517,7,9,https://www.demoblaze.com/index.html,46,0,0
+1650009326435,1088,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-9,,true,,11465,2068,7,9,null,1081,2,0
+1650009327525,48,Item3-149,200,OK,AddToCart 4-9,text,true,,5486,517,7,9,https://www.demoblaze.com/prod.html?idp_=8,45,0,0
+1650009327377,248,Item2-106,200,OK,AddToCart 4-10,text,true,,5368,517,7,9,https://www.demoblaze.com/prod.html?idp_=5,246,0,0
+1650009327266,368,Item4-191,200,OK,AddToCart 4-8,text,true,,307,553,7,9,https://api.demoblaze.com/addtocart,368,0,0
+1650009327297,347,Item1-84,200,OK,AddToCart 4-11,text,true,,449,481,7,9,https://api.demoblaze.com/addtocart,347,0,0
+1650009327418,249,Item4-192,200,OK,AddToCart 4-7,text,true,,5098,517,7,9,https://www.demoblaze.com/index.html,246,0,0
+1650009326763,903,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-7,,true,,11433,2068,7,9,null,897,1,0
+1650009327634,69,Item4-192,200,OK,AddToCart 4-8,text,true,,19902,517,7,9,https://www.demoblaze.com/index.html,47,0,0
+1650009326777,925,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-8,,true,,26194,2068,7,9,null,901,1,0
+1650009327306,408,Login-39,200,OK,AddToCart 4-12,text,true,,688,487,7,9,https://api.demoblaze.com/login,408,0,0
+1650009326960,753,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-12,,true,,1137,964,7,9,null,753,1,64
+1650009327667,48,Cart-218,200,OK,AddToCart 4-7,text,true,,6086,510,7,9,https://www.demoblaze.com/cart.html,45,0,0
+1650009327704,53,Cart-218,200,OK,AddToCart 4-8,text,true,,5709,510,7,9,https://www.demoblaze.com/cart.html,50,0,0
+1650009327375,447,login-suhas12,200,OK,Login 2-12,text,true,,559,487,1,9,https://api.demoblaze.com/login,445,0,0
+1650009327374,475,signup - suhas12,200,OK,Signup  1-12,text,false,"Test failed: text expected to contain /""""/",714,488,1,8,https://api.demoblaze.com/signup,475,0,0
+1650009326967,881,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-12,,false,,1163,966,1,8,null,881,1,77
+1650009327715,256,Cart-225,200,OK,AddToCart 4-7,text,true,,449,480,8,10,https://api.demoblaze.com/viewcart,256,0,0
+1650009327667,304,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-7,,true,,6535,990,8,10,null,301,0,0
+1650009327498,504,PlaceOrder-329,200,OK,AddToCart 4-6,text,true,,449,482,8,10,https://api.demoblaze.com/deletecart,504,0,0
+1650009327573,462,Item3-156,200,OK,AddToCart 4-9,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,462,0,0
+1650009327626,442,Item2-121,200,OK,AddToCart 4-10,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,442,0,0
+1650009327645,502,Item1-85,200,OK,AddToCart 4-11,text,true,,307,553,8,10,https://api.demoblaze.com/addtocart,502,0,0
+1650009327714,437,Item1-80,200,OK,AddToCart 4-12,text,true,,449,476,8,10,https://api.demoblaze.com/view,437,0,0
+1650009327757,397,Cart-225,200,OK,AddToCart 4-8,text,true,,449,480,8,10,https://api.demoblaze.com/viewcart,397,0,0
+1650009327703,450,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-8,,true,,6158,990,8,10,null,447,1,0
+1650009328148,122,Item1-89,200,OK,AddToCart 4-11,text,true,,4999,517,8,10,https://www.demoblaze.com/index.html,120,0,72
+1650009326917,1351,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-11,,true,,6204,2027,8,10,null,1349,3,72
+1650009327971,323,Delete1-237,200,OK,AddToCart 4-7,text,true,,449,482,8,10,https://api.demoblaze.com/deleteitem,323,0,0
+1650009328271,53,Item2-106,200,OK,AddToCart 4-11,text,true,,5386,517,8,10,https://www.demoblaze.com/prod.html?idp_=5,49,0,0
+1650009328002,374,PlaceOrder-330,200,OK,AddToCart 4-6,text,true,,316,469,8,10,https://api.demoblaze.com/deletecart,374,0,0
+1650009327497,878,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-6,,true,,765,951,8,10,null,878,2,0
+1650009327951,455,Login-38,200,OK,AddToCart 4-13,text,true,,449,477,7,9,https://api.demoblaze.com/login,455,0,76
+1650009327964,483,signup,200,OK,Signup  1-13,text,true,,449,478,1,9,https://api.demoblaze.com/signup,483,0,72
+1650009328035,463,Item3-157,200,OK,AddToCart 4-9,text,true,,307,553,7,9,https://api.demoblaze.com/addtocart,463,0,0
+1650009327966,538,login,200,OK,Login 2-13,text,true,,449,477,1,9,https://api.demoblaze.com/login,538,0,70
+1650009328069,475,Item2-122,200,OK,AddToCart 4-10,text,true,,307,553,7,9,https://api.demoblaze.com/addtocart,475,0,0
+1650009328154,408,Delete1-237,200,OK,AddToCart 4-8,text,true,,449,482,7,9,https://api.demoblaze.com/deleteitem,408,0,0
+1650009328152,421,Item1-84,200,OK,AddToCart 4-12,text,true,,449,481,7,9,https://api.demoblaze.com/addtocart,421,0,0
+1650009328545,48,Item2-123,200,OK,AddToCart 4-10,text,true,,5185,517,7,9,https://www.demoblaze.com/index.html,44,0,0
+1650009327377,1213,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-10,,true,,11309,2068,7,9,null,1207,3,0
+1650009328295,312,Delete1-238,200,OK,AddToCart 4-7,text,true,,316,493,7,9,https://api.demoblaze.com/deleteitem,312,0,0
+1650009328593,48,Item3-149,200,OK,AddToCart 4-10,text,true,,5508,517,7,9,https://www.demoblaze.com/prod.html?idp_=8,46,0,0
+1650009328447,270,signup - tejas12,200,OK,Signup  1-13,text,false,"Test failed: text expected to contain /""""/",698,488,1,9,https://api.demoblaze.com/signup,269,0,0
+1650009327963,753,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-13,,false,,1147,966,1,9,null,752,1,72
+1650009328325,399,Item2-121,200,OK,AddToCart 4-11,text,true,,449,481,7,8,https://api.demoblaze.com/addtocart,399,0,0
+1650009328498,265,Item3-158,200,OK,AddToCart 4-9,text,true,,19902,517,7,8,https://www.demoblaze.com/index.html,248,0,0
+1650009327525,1238,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-9,,true,,26144,2068,7,8,null,1218,1,0
+1650009328406,415,Login-39,200,OK,AddToCart 4-13,text,true,,557,487,7,8,https://api.demoblaze.com/login,414,0,0
+1650009327950,870,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-13,,true,,1006,964,7,8,null,869,1,76
+1650009328607,248,Delete1-239,200,OK,AddToCart 4-7,text,true,,5778,482,7,8,https://www.demoblaze.com/cart.html,246,0,0
+1650009328574,294,Item1-85,200,OK,AddToCart 4-12,text,true,,307,553,7,8,https://api.demoblaze.com/addtocart,294,0,0
+1650009328505,411,login-tejas12,200,OK,Login 2-13,text,true,,582,487,1,8,https://api.demoblaze.com/login,409,0,0
+1650009328869,140,Item1-89,200,OK,AddToCart 4-12,text,true,,5061,517,8,10,https://www.demoblaze.com/index.html,136,0,86
+1650009327714,1292,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-12,,true,,6266,2027,8,10,null,1288,3,86
+1650009328562,457,Delete1-238,200,OK,AddToCart 4-8,text,true,,316,493,8,10,https://api.demoblaze.com/deleteitem,456,0,0
+1650009328764,256,Item4-184,200,OK,AddToCart 4-9,text,true,,5470,517,8,10,https://www.demoblaze.com/prod.html?idp_=9,253,0,0
+1650009329009,50,Item2-106,200,OK,AddToCart 4-12,text,true,,5466,517,8,10,https://www.demoblaze.com/prod.html?idp_=5,48,0,0
+1650009328821,255,Item1-80,200,OK,AddToCart 4-13,text,true,,449,476,8,10,https://api.demoblaze.com/view,255,0,0
+1650009328642,434,Item3-156,200,OK,AddToCart 4-10,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,434,0,0
+1650009328725,403,Item2-122,200,OK,AddToCart 4-11,text,true,,307,553,8,10,https://api.demoblaze.com/addtocart,403,0,0
+1650009329128,60,Item2-123,200,OK,AddToCart 4-11,text,true,,19902,517,8,10,https://www.demoblaze.com/index.html,44,0,0
+1650009328271,915,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-11,,true,,26044,2068,8,10,null,895,2,0
+1650009329188,49,Item3-149,200,OK,AddToCart 4-11,text,true,,5676,517,8,10,https://www.demoblaze.com/prod.html?idp_=8,46,0,0
+1650009329019,250,Delete1-239,200,OK,AddToCart 4-8,text,true,,5884,482,8,10,https://www.demoblaze.com/cart.html,248,0,0
+1650009328855,486,Delete1-255,200,OK,AddToCart 4-7,text,true,,449,480,8,10,https://api.demoblaze.com/viewcart,486,0,0
+1650009327971,1369,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-7,,true,,6992,1937,8,10,null,1367,1,0
+1650009329020,367,Item4-190,200,OK,AddToCart 4-9,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,367,0,0
+1650009328944,445,Login-38,200,OK,AddToCart 4-14,text,true,,449,477,8,10,https://api.demoblaze.com/login,445,0,85
+1650009329076,315,Item3-157,200,OK,AddToCart 4-10,text,true,,307,553,8,10,https://api.demoblaze.com/addtocart,315,0,0
+1650009328970,428,login,200,OK,Login 2-14,text,true,,449,477,1,10,https://api.demoblaze.com/login,428,0,75
+1650009328972,434,signup,200,OK,Signup  1-14,text,true,,449,478,1,10,https://api.demoblaze.com/signup,434,0,76
+1650009329391,66,Item3-158,200,OK,AddToCart 4-10,text,true,,19902,517,8,10,https://www.demoblaze.com/index.html,45,0,0
+1650009328593,863,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-10,,true,,26166,2068,8,10,null,840,2,0
+1650009329060,412,Item2-121,200,OK,AddToCart 4-12,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,412,0,0
+1650009329076,404,Item1-84,200,OK,AddToCart 4-13,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,404,0,0
+1650009329458,49,Item4-184,200,OK,AddToCart 4-10,text,true,,5428,517,8,10,https://www.demoblaze.com/prod.html?idp_=9,48,0,0
+1650009329237,391,Item3-156,200,OK,AddToCart 4-11,text,true,,449,481,8,10,https://api.demoblaze.com/addtocart,391,0,0
+1650009329270,367,Delete1-255,200,OK,AddToCart 4-8,text,true,,449,480,8,10,https://api.demoblaze.com/viewcart,367,0,0
+1650009328154,1482,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-8,,true,,7098,1937,8,10,null,1479,1,0
+1650009329387,296,Item4-191,200,OK,AddToCart 4-9,text,true,,307,553,8,10,https://api.demoblaze.com/addtocart,296,0,0
+1650009329684,48,Item4-192,200,OK,AddToCart 4-9,text,true,,5270,517,8,10,https://www.demoblaze.com/index.html,45,0,0
+1650009328764,967,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-9,,true,,11496,2068,8,10,null,961,1,0
+1650009329341,434,PlaceOrder-329,200,OK,AddToCart 4-7,text,true,,449,482,8,10,https://api.demoblaze.com/deletecart,434,0,0
+1650009329732,49,Cart-218,200,OK,AddToCart 4-9,text,true,,5885,510,8,10,https://www.demoblaze.com/cart.html,46,0,0
+1650009329389,459,Login-39,200,OK,AddToCart 4-14,text,true,,549,490,8,10,https://api.demoblaze.com/login,457,0,0
+1650009328943,904,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-14,,true,,998,967,8,10,null,902,1,85
+1650009329398,491,login-darshika21,200,OK,Login 2-14,text,true,,525,490,1,10,https://api.demoblaze.com/login,491,0,0
+1650009329406,492,signup - darshika21,200,OK,Signup  1-14,text,false,"Test failed: text expected to contain /""""/",542,491,1,9,https://api.demoblaze.com/signup,492,0,0
+1650009328971,926,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-14,,false,,991,969,1,9,null,926,2,76
+1650009329473,470,Item2-122,200,OK,AddToCart 4-12,text,true,,307,553,9,9,https://api.demoblaze.com/addtocart,470,0,0
+1650009329480,512,Item1-85,200,OK,AddToCart 4-13,text,true,,307,553,9,11,https://api.demoblaze.com/addtocart,512,0,0
+1650009329507,497,Item4-190,200,OK,AddToCart 4-10,text,true,,449,481,9,11,https://api.demoblaze.com/addtocart,497,0,0
+1650009329943,65,Item2-123,200,OK,AddToCart 4-12,text,true,,19902,517,9,11,https://www.demoblaze.com/index.html,48,0,0
+1650009329009,997,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-12,,true,,26124,2068,9,11,null,978,2,0
+1650009329775,266,PlaceOrder-330,200,OK,AddToCart 4-7,text,true,,316,469,9,11,https://api.demoblaze.com/deletecart,266,0,0
+1650009329341,700,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-7,,true,,765,951,9,11,null,700,0,0
+1650009329629,442,Item3-157,200,OK,AddToCart 4-11,text,true,,307,553,8,10,https://api.demoblaze.com/addtocart,442,0,0
+1650009329637,445,PlaceOrder-329,200,OK,AddToCart 4-8,text,true,,449,482,8,10,https://api.demoblaze.com/deletecart,445,0,0
+1650009329993,111,Item1-89,200,OK,AddToCart 4-13,text,true,,4988,517,8,10,https://www.demoblaze.com/index.html,109,0,64
+1650009328821,1282,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-13,,true,,6193,2027,8,10,null,1280,1,64
+1650009329781,330,Cart-225,200,OK,AddToCart 4-9,text,true,,449,480,8,10,https://api.demoblaze.com/viewcart,330,0,0
+1650009329732,379,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-9,,true,,6334,990,8,10,null,376,0,0
+1650009330071,59,Item3-158,200,OK,AddToCart 4-11,text,true,,19902,517,8,10,https://www.demoblaze.com/index.html,45,0,0
+1650009329188,941,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-11,,true,,26334,2068,8,10,null,924,1,0
+1650009329849,335,Item1-80,200,OK,AddToCart 4-14,text,true,,449,476,8,10,https://api.demoblaze.com/view,335,0,0
+1650009330130,54,Item4-184,200,OK,AddToCart 4-11,text,true,,5670,517,8,10,https://www.demoblaze.com/prod.html?idp_=9,53,0,0
+1650009330009,266,Item3-149,200,OK,AddToCart 4-12,text,true,,22049,517,8,10,https://www.demoblaze.com/prod.html?idp_=8,250,0,0
+1650009330008,324,Item4-191,200,OK,AddToCart 4-10,text,true,,307,553,8,10,https://api.demoblaze.com/addtocart,324,0,0
+1650009329942,395,Login-38,200,OK,AddToCart 4-15,text,true,,449,477,8,10,https://api.demoblaze.com/login,395,0,74
+1650009330104,254,Item2-106,200,OK,AddToCart 4-13,text,true,,5580,517,8,10,https://www.demoblaze.com/prod.html?idp_=5,251,0,0
+1650009329968,401,login,200,OK,Login 2-15,text,true,,449,477,1,10,https://api.demoblaze.com/login,401,0,72
+1650009329962,416,signup,200,OK,Signup  1-15,text,true,,449,478,1,10,https://api.demoblaze.com/signup,416,0,91
+1650009330332,60,Item4-192,200,OK,AddToCart 4-10,text,true,,19902,517,8,10,https://www.demoblaze.com/index.html,46,0,0
+1650009329458,930,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-10,,true,,26086,2068,8,10,null,915,5,0
+1650009330082,319,PlaceOrder-330,200,OK,AddToCart 4-8,text,true,,316,468,8,10,https://api.demoblaze.com/deletecart,319,0,0
+1650009329637,764,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-8,,true,,765,950,8,10,null,764,1,0
+1650009330393,48,Cart-218,200,OK,AddToCart 4-10,text,true,,5759,510,7,9,https://www.demoblaze.com/cart.html,45,0,0
+1650009330111,356,Delete1-237,200,OK,AddToCart 4-9,text,true,,449,482,7,9,https://api.demoblaze.com/deleteitem,356,0,0
+1650009330184,327,Item4-190,200,OK,AddToCart 4-11,text,true,,449,481,7,9,https://api.demoblaze.com/addtocart,327,0,0
+1650009330184,327,Item1-84,200,OK,AddToCart 4-14,text,true,,449,481,7,9,https://api.demoblaze.com/addtocart,327,0,0
+1650009330276,348,Item3-156,200,OK,AddToCart 4-12,text,true,,449,481,7,9,https://api.demoblaze.com/addtocart,348,0,0
+1650009330359,410,Item2-121,200,OK,AddToCart 4-13,text,true,,449,481,7,9,https://api.demoblaze.com/addtocart,410,0,0
+1650009330338,431,Login-39,200,OK,AddToCart 4-15,text,true,,622,487,7,9,https://api.demoblaze.com/login,431,0,0
+1650009329940,826,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-15,,true,,1071,964,7,9,null,826,3,74
+1650009330467,312,Delete1-238,200,OK,AddToCart 4-9,text,true,,316,493,7,9,https://api.demoblaze.com/deleteitem,312,0,0
+1650009330370,440,login-glenn12,200,OK,Login 2-15,text,true,,680,487,1,9,https://api.demoblaze.com/login,439,0,0
+1650009330779,48,Delete1-239,200,OK,AddToCart 4-9,text,true,,5970,482,7,8,https://www.demoblaze.com/cart.html,46,0,0
+1650009330379,486,signup - glenn12,200,OK,Signup  1-15,text,false,"Test failed: text expected to contain /""""/",580,488,1,8,https://api.demoblaze.com/signup,485,0,0
+1650009329960,902,signup,,"Number of samples in transaction : 2, number of failing samples : 1",Signup  1-15,,false,,1029,966,1,8,null,901,4,91
+1650009330442,471,Cart-225,200,OK,AddToCart 4-10,text,true,,449,480,7,7,https://api.demoblaze.com/viewcart,471,0,0
+1650009330393,519,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-10,,true,,6208,990,7,7,null,516,1,0
+1650009330511,491,Item1-85,200,OK,AddToCart 4-14,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,491,0,0
+1650009330511,525,Item4-191,200,OK,AddToCart 4-11,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,525,0,0
+1650009330625,474,Item3-157,200,OK,AddToCart 4-12,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,474,0,0
+1650009330769,486,Item2-122,200,OK,AddToCart 4-13,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,486,0,0
+1650009330943,314,Login-38,200,OK,AddToCart 4-16,text,true,,449,477,8,8,https://api.demoblaze.com/login,314,0,65
+1650009330770,490,Item1-80,200,OK,AddToCart 4-15,text,true,,449,476,8,8,https://api.demoblaze.com/view,490,0,0
+1650009331035,245,Item4-192,200,OK,AddToCart 4-11,text,true,,5074,517,8,8,https://www.demoblaze.com/index.html,243,0,0
+1650009330130,1151,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-11,,true,,11500,2068,8,8,null,1148,1,0
+1650009330828,456,Delete1-255,200,OK,AddToCart 4-9,text,true,,449,480,8,8,https://api.demoblaze.com/viewcart,456,0,0
+1650009330111,1172,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-9,,true,,7184,1937,8,8,null,1170,1,0
+1650009331254,60,Item2-123,200,OK,AddToCart 4-13,text,true,,19902,517,8,8,https://www.demoblaze.com/index.html,44,0,0
+1650009330104,1210,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-13,,true,,26238,2068,8,8,null,1191,1,0
+1650009331003,322,Item1-89,200,OK,AddToCart 4-14,text,true,,5169,517,8,8,https://www.demoblaze.com/index.html,319,0,74
+1650009329848,1475,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-14,,true,,6374,2027,8,8,null,1472,2,74
+1650009330914,413,Delete1-237,200,OK,AddToCart 4-10,text,true,,449,482,8,8,https://api.demoblaze.com/deleteitem,413,0,0
+1650009331281,47,Cart-218,200,OK,AddToCart 4-11,text,true,,5902,510,8,8,https://www.demoblaze.com/cart.html,44,0,0
+1650009331099,253,Item3-158,200,OK,AddToCart 4-12,text,true,,5162,517,8,8,https://www.demoblaze.com/index.html,251,0,0
+1650009330008,1341,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-12,,true,,27967,2068,8,8,null,1323,4,0
+1650009331315,46,Item3-149,200,OK,AddToCart 4-13,text,true,,5726,517,8,8,https://www.demoblaze.com/prod.html?idp_=8,44,0,0
+1650009331259,278,Item1-84,200,OK,AddToCart 4-15,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,278,0,0
+1650009331324,251,Item2-106,200,OK,AddToCart 4-14,text,true,,5519,517,8,8,https://www.demoblaze.com/prod.html?idp_=5,249,0,0
+1650009331352,249,Item4-184,200,OK,AddToCart 4-12,text,true,,5681,517,8,8,https://www.demoblaze.com/prod.html?idp_=9,248,0,0
+1650009331256,359,Login-39,200,OK,AddToCart 4-16,text,true,,649,487,8,8,https://api.demoblaze.com/login,357,0,0
+1650009330942,673,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-16,,true,,1098,964,8,8,null,671,1,65
+1650009331283,339,PlaceOrder-329,200,OK,AddToCart 4-9,text,true,,449,482,8,8,https://api.demoblaze.com/deletecart,339,0,0
+1650009331326,366,Delete1-238,200,OK,AddToCart 4-10,text,true,,316,493,8,8,https://api.demoblaze.com/deleteitem,366,0,0
+1650009331361,346,Item3-156,200,OK,AddToCart 4-13,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,346,0,0
+1650009331329,383,Cart-225,200,OK,AddToCart 4-11,text,true,,449,480,8,8,https://api.demoblaze.com/viewcart,383,0,0
+1650009331281,430,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-11,,true,,6351,990,8,8,null,427,1,0
+1650009331693,49,Delete1-239,200,OK,AddToCart 4-10,text,true,,6002,482,8,8,https://www.demoblaze.com/cart.html,47,0,0
+1650009331537,333,Item1-85,200,OK,AddToCart 4-15,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,333,0,0
+1650009331575,305,Item2-121,200,OK,AddToCart 4-14,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,305,0,0
+1650009331602,323,Item4-190,200,OK,AddToCart 4-12,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,323,0,0
+1650009331615,352,Item1-80,200,OK,AddToCart 4-16,text,true,,449,476,9,9,https://api.demoblaze.com/view,352,0,0
+1650009331871,122,Item1-89,200,OK,AddToCart 4-15,text,true,,5218,517,9,9,https://www.demoblaze.com/index.html,119,0,73
+1650009330769,1223,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-15,,true,,6423,2027,9,9,null,1220,2,73
+1650009331623,379,PlaceOrder-330,200,OK,AddToCart 4-9,text,true,,316,467,9,9,https://api.demoblaze.com/deletecart,379,0,0
+1650009331283,718,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-9,,true,,765,949,9,9,null,718,2,0
+1650009331993,48,Item2-106,200,OK,AddToCart 4-15,text,true,,5483,517,8,8,https://www.demoblaze.com/prod.html?idp_=5,46,0,0
+1650009331707,365,Item3-157,200,OK,AddToCart 4-13,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,365,0,0
+1650009331742,337,Delete1-255,200,OK,AddToCart 4-10,text,true,,449,480,8,8,https://api.demoblaze.com/viewcart,337,0,0
+1650009330913,1165,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-10,,true,,7216,1937,8,8,null,1163,3,0
+1650009331713,371,Delete1-237,200,OK,AddToCart 4-11,text,true,,449,482,8,8,https://api.demoblaze.com/deleteitem,371,0,0
+1650009332072,47,Item3-158,200,OK,AddToCart 4-13,text,true,,5066,517,8,8,https://www.demoblaze.com/index.html,44,0,0
+1650009331314,804,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-13,,true,,11548,2068,8,8,null,799,1,0
+1650009331880,370,Item2-122,200,OK,AddToCart 4-14,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,370,0,0
+1650009332250,49,Item2-123,200,OK,AddToCart 4-14,text,true,,4981,517,8,8,https://www.demoblaze.com/index.html,46,0,0
+1650009331324,975,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-14,,true,,11256,2068,8,8,null,970,0,0
+1650009331925,396,Item4-191,200,OK,AddToCart 4-12,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,396,0,0
+1650009331968,354,Item1-84,200,OK,AddToCart 4-16,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,354,0,0
+1650009331944,404,Login-38,200,OK,AddToCart 4-17,text,true,,449,477,8,8,https://api.demoblaze.com/login,404,0,60
+1650009332321,48,Item4-192,200,OK,AddToCart 4-12,text,true,,5268,517,8,8,https://www.demoblaze.com/index.html,45,0,0
+1650009331352,1016,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-12,,true,,11705,2068,8,8,null,1012,1,0
+1650009332119,252,Item4-184,200,OK,AddToCart 4-13,text,true,,5505,517,8,8,https://www.demoblaze.com/prod.html?idp_=9,249,0,0
+1650009332041,343,Item2-121,200,OK,AddToCart 4-15,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,343,0,0
+1650009332370,49,Cart-218,200,OK,AddToCart 4-12,text,true,,5901,510,8,8,https://www.demoblaze.com/cart.html,46,0,0
+1650009332080,389,PlaceOrder-329,200,OK,AddToCart 4-10,text,true,,449,482,8,8,https://api.demoblaze.com/deletecart,389,0,0
+1650009332085,442,Delete1-238,200,OK,AddToCart 4-11,text,true,,316,493,8,8,https://api.demoblaze.com/deleteitem,442,0,0
+1650009332299,256,Item3-149,200,OK,AddToCart 4-14,text,true,,5342,517,8,8,https://www.demoblaze.com/prod.html?idp_=8,255,0,0
+1650009332527,48,Delete1-239,200,OK,AddToCart 4-11,text,true,,5920,482,8,8,https://www.demoblaze.com/cart.html,45,0,0
+1650009332322,374,Item1-85,200,OK,AddToCart 4-16,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,374,0,0
+1650009332348,393,Login-39,200,OK,AddToCart 4-17,text,true,,534,485,8,8,https://api.demoblaze.com/login,390,0,0
+1650009331943,797,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-17,,true,,983,962,8,8,null,794,1,60
+1650009332371,374,Item4-190,200,OK,AddToCart 4-13,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,374,0,0
+1650009332385,387,Item2-122,200,OK,AddToCart 4-15,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,387,0,0
+1650009332420,360,Cart-225,200,OK,AddToCart 4-12,text,true,,449,480,8,8,https://api.demoblaze.com/viewcart,360,0,0
+1650009332369,409,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-12,,true,,6350,990,8,8,null,406,2,0
+1650009332470,337,PlaceOrder-330,200,OK,AddToCart 4-10,text,true,,316,467,8,8,https://api.demoblaze.com/deletecart,336,0,0
+1650009332080,726,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-10,,true,,765,949,8,8,null,725,1,0
+1650009332697,117,Item1-89,200,OK,AddToCart 4-16,text,true,,5147,517,7,7,https://www.demoblaze.com/index.html,115,0,62
+1650009331615,1197,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-16,,true,,6352,2027,7,7,null,1195,2,62
+1650009332555,292,Item3-156,200,OK,AddToCart 4-14,text,true,,449,481,7,7,https://api.demoblaze.com/addtocart,292,0,0
+1650009332814,47,Item2-106,200,OK,AddToCart 4-16,text,true,,5595,517,7,7,https://www.demoblaze.com/prod.html?idp_=5,45,0,0
+1650009332575,297,Delete1-255,200,OK,AddToCart 4-11,text,true,,449,480,7,7,https://api.demoblaze.com/viewcart,297,0,0
+1650009331712,1158,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-11,,true,,7134,1937,7,7,null,1155,2,0
+1650009332772,258,Item2-123,200,OK,AddToCart 4-15,text,true,,19902,517,8,8,https://www.demoblaze.com/index.html,242,0,0
+1650009331993,1036,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-15,,true,,26141,2068,8,8,null,1018,2,0
+1650009332745,333,Item4-191,200,OK,AddToCart 4-13,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,333,0,0
+1650009332741,345,Item1-80,200,OK,AddToCart 4-17,text,true,,449,476,8,8,https://api.demoblaze.com/view,345,0,0
+1650009332780,321,Delete1-237,200,OK,AddToCart 4-12,text,true,,449,482,8,8,https://api.demoblaze.com/deleteitem,321,0,0
+1650009333078,46,Item4-192,200,OK,AddToCart 4-13,text,true,,5089,517,8,8,https://www.demoblaze.com/index.html,43,0,0
+1650009332119,1005,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-13,,true,,11350,2068,8,8,null,999,0,0
+1650009332847,291,Item3-157,200,OK,AddToCart 4-14,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,291,0,0
+1650009332861,281,Item2-121,200,OK,AddToCart 4-16,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,281,0,0
+1650009332872,291,PlaceOrder-329,200,OK,AddToCart 4-11,text,true,,449,482,8,8,https://api.demoblaze.com/deletecart,291,0,0
+1650009333124,48,Cart-218,200,OK,AddToCart 4-13,text,true,,5855,510,8,8,https://www.demoblaze.com/cart.html,45,0,0
+1650009333138,48,Item3-158,200,OK,AddToCart 4-14,text,true,,5249,517,8,8,https://www.demoblaze.com/index.html,45,0,0
+1650009332299,887,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-14,,true,,11347,2068,8,8,null,883,0,0
+1650009332938,318,Login-38,200,OK,AddToCart 4-18,text,true,,449,477,8,8,https://api.demoblaze.com/login,318,0,68
+1650009333031,247,Item3-149,200,OK,AddToCart 4-15,text,true,,5763,517,8,8,https://www.demoblaze.com/prod.html?idp_=8,244,0,0
+1650009333086,247,Item1-84,200,OK,AddToCart 4-17,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,247,0,0
+1650009333101,296,Delete1-238,200,OK,AddToCart 4-12,text,true,,316,493,8,8,https://api.demoblaze.com/deleteitem,296,0,0
+1650009333143,290,Item2-122,200,OK,AddToCart 4-16,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,290,0,0
+1650009333186,249,Item4-184,200,OK,AddToCart 4-14,text,true,,5795,517,8,8,https://www.demoblaze.com/prod.html?idp_=9,246,0,0
+1650009333172,316,Cart-225,200,OK,AddToCart 4-13,text,true,,449,480,8,8,https://api.demoblaze.com/viewcart,316,0,0
+1650009333124,364,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-13,,true,,6304,990,8,8,null,361,0,0
+1650009333164,327,PlaceOrder-330,200,OK,AddToCart 4-11,text,true,,316,468,8,8,https://api.demoblaze.com/deletecart,327,0,0
+1650009332872,618,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-11,,true,,765,950,8,8,null,618,1,0
+1650009333433,60,Item2-123,200,OK,AddToCart 4-16,text,true,,19902,517,7,7,https://www.demoblaze.com/index.html,45,0,0
+1650009332814,678,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-16,,true,,26253,2068,7,7,null,661,1,0
+1650009333494,46,Item3-149,200,OK,AddToCart 4-16,text,true,,5752,517,7,7,https://www.demoblaze.com/prod.html?idp_=8,44,0,0
+1650009333256,321,Login-39,200,OK,AddToCart 4-18,text,true,,502,488,7,7,https://api.demoblaze.com/login,319,0,0
+1650009332937,639,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-18,,true,,951,965,7,7,null,637,1,68
+1650009333278,329,Item3-156,200,OK,AddToCart 4-15,text,true,,449,481,7,7,https://api.demoblaze.com/addtocart,329,0,0
+1650009333398,250,Delete1-239,200,OK,AddToCart 4-12,text,true,,5724,482,7,7,https://www.demoblaze.com/cart.html,247,0,0
+1650009333333,329,Item1-85,200,OK,AddToCart 4-17,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,329,0,0
+1650009333435,257,Item4-190,200,OK,AddToCart 4-14,text,true,,449,481,7,7,https://api.demoblaze.com/addtocart,257,0,0
+1650009333489,257,Delete1-237,200,OK,AddToCart 4-13,text,true,,449,482,7,7,https://api.demoblaze.com/deleteitem,256,0,0
+1650009333663,135,Item1-89,200,OK,AddToCart 4-17,text,true,,19902,517,7,7,https://www.demoblaze.com/index.html,119,0,74
+1650009332741,1056,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-17,,true,,21107,2027,7,7,null,1040,2,74
+1650009333541,281,Item3-156,200,OK,AddToCart 4-16,text,true,,449,481,7,7,https://api.demoblaze.com/addtocart,281,0,0
+1650009333578,255,Item1-80,200,OK,AddToCart 4-18,text,true,,449,476,7,7,https://api.demoblaze.com/view,255,0,0
+1650009333799,52,Item2-106,200,OK,AddToCart 4-17,text,true,,5422,517,7,7,https://www.demoblaze.com/prod.html?idp_=5,49,0,0
+1650009333607,298,Item3-157,200,OK,AddToCart 4-15,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,298,0,0
+1650009333649,277,Delete1-255,200,OK,AddToCart 4-12,text,true,,449,480,7,7,https://api.demoblaze.com/viewcart,277,0,0
+1650009332780,1144,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-12,,true,,6938,1937,7,7,null,1141,2,0
+1650009333906,47,Item3-158,200,OK,AddToCart 4-15,text,true,,5106,517,8,8,https://www.demoblaze.com/index.html,44,0,0
+1650009333031,921,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-15,,true,,11625,2068,8,8,null,915,1,0
+1650009333693,282,Item4-191,200,OK,AddToCart 4-14,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,282,0,0
+1650009333975,51,Item4-192,200,OK,AddToCart 4-14,text,true,,4882,517,8,8,https://www.demoblaze.com/index.html,50,0,0
+1650009333186,839,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-14,,true,,11433,2068,8,8,null,835,1,0
+1650009333746,309,Delete1-238,200,OK,AddToCart 4-13,text,true,,316,493,8,8,https://api.demoblaze.com/deleteitem,309,0,0
+1650009334026,48,Cart-218,200,OK,AddToCart 4-14,text,true,,6018,510,8,8,https://www.demoblaze.com/cart.html,46,0,0
+1650009333822,309,Item3-157,200,OK,AddToCart 4-16,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,309,0,0
+1650009333833,298,Item1-84,200,OK,AddToCart 4-18,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,298,0,0
+1650009333851,282,Item2-121,200,OK,AddToCart 4-17,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,282,0,0
+1650009333926,250,PlaceOrder-329,200,OK,AddToCart 4-12,text,true,,449,482,8,8,https://api.demoblaze.com/deletecart,250,0,0
+1650009334131,65,Item3-158,200,OK,AddToCart 4-16,text,true,,19902,517,8,8,https://www.demoblaze.com/index.html,45,0,0
+1650009333494,701,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-16,,true,,26410,2068,8,8,null,679,2,0
+1650009333953,254,Item4-184,200,OK,AddToCart 4-15,text,true,,5688,517,8,8,https://www.demoblaze.com/prod.html?idp_=9,249,0,0
+1650009334197,46,Item4-184,200,OK,AddToCart 4-16,text,true,,5420,517,8,8,https://www.demoblaze.com/prod.html?idp_=9,44,0,0
+1650009333935,321,Login-38,200,OK,AddToCart 4-19,text,true,,449,477,8,8,https://api.demoblaze.com/login,321,0,71
+1650009334055,261,Delete1-239,200,OK,AddToCart 4-13,text,true,,5936,482,8,8,https://www.demoblaze.com/cart.html,258,0,0
+1650009334074,253,Cart-225,200,OK,AddToCart 4-14,text,true,,449,480,8,8,https://api.demoblaze.com/viewcart,253,0,0
+1650009334026,301,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-14,,true,,6467,990,8,8,null,299,0,0
+1650009334133,280,Item2-122,200,OK,AddToCart 4-17,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,280,0,0
+1650009334413,48,Item2-123,200,OK,AddToCart 4-17,text,true,,5087,517,8,8,https://www.demoblaze.com/index.html,46,0,0
+1650009333799,662,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-17,,true,,11265,2068,8,8,null,657,1,0
+1650009334131,340,Item1-85,200,OK,AddToCart 4-18,text,true,,307,553,8,8,https://api.demoblaze.com/addtocart,340,0,0
+1650009334208,267,Item4-190,200,OK,AddToCart 4-15,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,267,0,0
+1650009334177,318,PlaceOrder-330,200,OK,AddToCart 4-12,text,true,,316,468,8,8,https://api.demoblaze.com/deletecart,318,0,0
+1650009334244,251,Item4-190,200,OK,AddToCart 4-16,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,251,0,0
+1650009333926,568,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-12,,true,,765,950,8,8,null,568,1,0
+1650009334472,115,Item1-89,200,OK,AddToCart 4-18,text,true,,5007,517,7,7,https://www.demoblaze.com/index.html,113,0,68
+1650009333577,1008,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-18,,true,,6212,2027,7,7,null,1006,3,68
+1650009334316,281,Delete1-255,200,OK,AddToCart 4-13,text,true,,449,480,7,7,https://api.demoblaze.com/viewcart,281,0,0
+1650009333489,1108,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-13,,true,,7150,1937,7,7,null,1104,0,0
+1650009334256,342,Login-39,200,OK,AddToCart 4-19,text,true,,535,487,7,7,https://api.demoblaze.com/login,340,0,0
+1650009333935,663,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-19,,true,,984,964,7,7,null,661,0,71
+1650009334327,275,Delete1-237,200,OK,AddToCart 4-14,text,true,,449,482,7,7,https://api.demoblaze.com/deleteitem,275,0,0
+1650009334588,49,Item2-106,200,OK,AddToCart 4-18,text,true,,5737,517,7,7,https://www.demoblaze.com/prod.html?idp_=5,45,0,0
+1650009334462,277,Item3-149,200,OK,AddToCart 4-17,text,true,,5537,517,7,7,https://www.demoblaze.com/prod.html?idp_=8,275,0,0
+1650009334475,284,Item4-191,200,OK,AddToCart 4-15,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,284,0,0
+1650009334495,274,Item4-191,200,OK,AddToCart 4-16,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,274,0,0
+1650009334769,46,Item4-192,200,OK,AddToCart 4-16,text,true,,5183,517,7,7,https://www.demoblaze.com/index.html,45,0,0
+1650009334197,617,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-16,,true,,11359,2068,7,7,null,614,1,0
+1650009334759,61,Item4-192,200,OK,AddToCart 4-15,text,true,,19902,517,7,7,https://www.demoblaze.com/index.html,46,0,0
+1650009333953,866,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-15,,true,,26346,2068,7,7,null,846,1,0
+1650009334598,246,Item1-80,200,OK,AddToCart 4-19,text,true,,449,476,7,7,https://api.demoblaze.com/view,246,0,0
+1650009334597,254,PlaceOrder-329,200,OK,AddToCart 4-13,text,true,,449,482,7,7,https://api.demoblaze.com/deletecart,254,0,0
+1650009334816,46,Cart-218,200,OK,AddToCart 4-16,text,true,,6078,510,7,7,https://www.demoblaze.com/cart.html,43,0,0
+1650009334820,48,Cart-218,200,OK,AddToCart 4-15,text,true,,5925,510,7,7,https://www.demoblaze.com/cart.html,45,0,0
+1650009334637,255,Item2-121,200,OK,AddToCart 4-18,text,true,,449,481,7,7,https://api.demoblaze.com/addtocart,255,0,0
+1650009334602,307,Delete1-238,200,OK,AddToCart 4-14,text,true,,316,493,7,7,https://api.demoblaze.com/deleteitem,307,0,0
+1650009334910,47,Delete1-239,200,OK,AddToCart 4-14,text,true,,5765,482,8,8,https://www.demoblaze.com/cart.html,47,0,0
+1650009334739,255,Item3-156,200,OK,AddToCart 4-17,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,255,0,0
+1650009334844,258,Item1-84,200,OK,AddToCart 4-19,text,true,,449,481,8,8,https://api.demoblaze.com/addtocart,258,0,0
+1650009334862,251,Cart-225,200,OK,AddToCart 4-16,text,true,,449,480,8,8,https://api.demoblaze.com/viewcart,251,0,0
+1650009334815,297,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-16,,true,,6527,990,8,8,null,294,2,0
+1650009334852,265,PlaceOrder-330,200,OK,AddToCart 4-13,text,true,,316,468,8,8,https://api.demoblaze.com/deletecart,265,0,0
+1650009334597,519,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-13,,true,,765,950,8,8,null,519,2,0
+1650009334868,254,Cart-225,200,OK,AddToCart 4-15,text,true,,449,480,7,7,https://api.demoblaze.com/viewcart,254,0,0
+1650009334820,302,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-15,,true,,6374,990,7,7,null,299,1,0
+1650009334958,252,Delete1-255,200,OK,AddToCart 4-14,text,true,,449,480,7,7,https://api.demoblaze.com/viewcart,252,0,0
+1650009334327,881,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-14,,true,,6979,1937,7,7,null,881,2,0
+1650009334893,324,Item2-122,200,OK,AddToCart 4-18,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,324,0,0
+1650009334937,327,Login-38,200,OK,AddToCart 4-20,text,true,,449,477,7,7,https://api.demoblaze.com/login,327,0,76
+1650009334994,271,Item3-157,200,OK,AddToCart 4-17,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,271,0,0
+1650009335217,50,Item2-123,200,OK,AddToCart 4-18,text,true,,5024,517,7,7,https://www.demoblaze.com/index.html,47,0,0
+1650009334588,678,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-18,,true,,11517,2068,7,7,null,671,1,0
+1650009335267,49,Item3-149,200,OK,AddToCart 4-18,text,true,,5523,517,7,7,https://www.demoblaze.com/prod.html?idp_=8,45,0,0
+1650009335265,62,Item3-158,200,OK,AddToCart 4-17,text,true,,19902,517,7,7,https://www.demoblaze.com/index.html,47,0,0
+1650009334462,865,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-17,,true,,26195,2068,7,7,null,848,1,0
+1650009335114,244,Delete1-237,200,OK,AddToCart 4-16,text,true,,449,482,7,7,https://api.demoblaze.com/deleteitem,244,0,0
+1650009335328,47,Item4-184,200,OK,AddToCart 4-17,text,true,,5664,517,7,7,https://www.demoblaze.com/prod.html?idp_=9,46,0,0
+1650009335123,255,Delete1-237,200,OK,AddToCart 4-15,text,true,,449,482,7,7,https://api.demoblaze.com/deleteitem,255,0,0
+1650009335103,310,Item1-85,200,OK,AddToCart 4-19,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,310,0,0
+1650009335211,257,PlaceOrder-329,200,OK,AddToCart 4-14,text,true,,449,482,7,7,https://api.demoblaze.com/deletecart,257,0,0
+1650009335414,142,Item1-89,200,OK,AddToCart 4-19,text,true,,19902,517,7,7,https://www.demoblaze.com/index.html,127,0,78
+1650009334598,956,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-19,,true,,21107,2027,7,7,null,941,2,78
+1650009335264,296,Login-39,200,OK,AddToCart 4-20,text,true,,700,485,7,7,https://api.demoblaze.com/login,295,0,0
+1650009334936,623,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-20,,true,,1149,962,7,7,null,622,1,76
+1650009335316,260,Item3-156,200,OK,AddToCart 4-18,text,true,,449,481,7,7,https://api.demoblaze.com/addtocart,260,0,0
+1650009335557,49,Item2-106,200,OK,AddToCart 4-19,text,true,,5687,517,7,7,https://www.demoblaze.com/prod.html?idp_=5,48,0,0
+1650009335376,250,Item4-190,200,OK,AddToCart 4-17,text,true,,449,481,7,7,https://api.demoblaze.com/addtocart,250,0,0
+1650009335359,317,Delete1-238,200,OK,AddToCart 4-16,text,true,,316,493,7,7,https://api.demoblaze.com/deleteitem,317,0,0
+1650009335379,298,Delete1-238,200,OK,AddToCart 4-15,text,true,,316,493,7,7,https://api.demoblaze.com/deleteitem,298,0,0
+1650009335677,49,Delete1-239,200,OK,AddToCart 4-15,text,true,,5875,482,7,7,https://www.demoblaze.com/cart.html,46,0,0
+1650009335468,274,PlaceOrder-330,200,OK,AddToCart 4-14,text,true,,316,471,7,7,https://api.demoblaze.com/deletecart,274,0,0
+1650009335210,531,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-14,,true,,765,953,7,7,null,531,1,0
+1650009335560,257,Item1-80,200,OK,AddToCart 4-20,text,true,,449,476,6,6,https://api.demoblaze.com/view,257,0,0
+1650009335606,272,Item2-121,200,OK,AddToCart 4-19,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,272,0,0
+1650009335576,330,Item3-157,200,OK,AddToCart 4-18,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,330,0,0
+1650009335677,265,Delete1-239,200,OK,AddToCart 4-16,text,true,,24602,482,7,7,https://www.demoblaze.com/cart.html,248,0,0
+1650009335906,49,Item3-158,200,OK,AddToCart 4-18,text,true,,5036,517,7,7,https://www.demoblaze.com/index.html,46,0,0
+1650009335267,688,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-18,,true,,11315,2068,7,7,null,681,0,0
+1650009335627,336,Item4-191,200,OK,AddToCart 4-17,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,336,0,0
+1650009335726,255,Delete1-255,200,OK,AddToCart 4-15,text,true,,449,480,7,7,https://api.demoblaze.com/viewcart,255,0,0
+1650009335123,857,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-15,,true,,7089,1937,7,7,null,854,1,0
+1650009335956,49,Item4-184,200,OK,AddToCart 4-18,text,true,,5486,517,7,7,https://www.demoblaze.com/prod.html?idp_=9,46,0,0
+1650009335963,48,Item4-192,200,OK,AddToCart 4-17,text,true,,5019,517,7,7,https://www.demoblaze.com/index.html,45,0,0
+1650009335328,681,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-17,,true,,11439,2068,7,7,null,677,2,0
+1650009336011,48,Cart-218,200,OK,AddToCart 4-17,text,true,,5914,510,7,7,https://www.demoblaze.com/cart.html,46,0,0
+1650009335817,249,Item1-84,200,OK,AddToCart 4-20,text,true,,449,481,7,7,https://api.demoblaze.com/addtocart,249,0,0
+1650009335878,279,Item2-122,200,OK,AddToCart 4-19,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,279,0,0
+1650009335942,252,Delete1-255,200,OK,AddToCart 4-16,text,true,,449,480,7,7,https://api.demoblaze.com/viewcart,252,0,0
+1650009335114,1078,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-16,,true,,25816,1937,7,7,null,1061,2,0
+1650009335981,259,PlaceOrder-329,200,OK,AddToCart 4-15,text,true,,449,482,7,7,https://api.demoblaze.com/deletecart,259,0,0
+1650009335924,322,Login-38,200,OK,AddToCart 4-21,text,true,,449,477,7,7,https://api.demoblaze.com/login,322,0,69
+1650009336006,252,Item4-190,200,OK,AddToCart 4-18,text,true,,449,481,7,7,https://api.demoblaze.com/addtocart,252,0,0
+1650009336061,247,Cart-225,200,OK,AddToCart 4-17,text,true,,449,480,7,7,https://api.demoblaze.com/viewcart,247,0,0
+1650009336011,295,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-17,,true,,6363,990,7,7,null,293,1,0
+1650009336068,285,Item1-85,200,OK,AddToCart 4-20,text,true,,307,553,7,7,https://api.demoblaze.com/addtocart,285,0,0
+1650009336159,256,Item2-123,200,OK,AddToCart 4-19,text,true,,5059,517,7,7,https://www.demoblaze.com/index.html,253,0,0
+1650009335556,856,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-19,,true,,11502,2068,7,7,null,852,2,0
+1650009336195,247,PlaceOrder-329,200,OK,AddToCart 4-16,text,true,,449,482,7,7,https://api.demoblaze.com/deletecart,247,0,0
+1650009336415,48,Item3-149,200,OK,AddToCart 4-19,text,true,,5450,517,7,7,https://www.demoblaze.com/prod.html?idp_=8,45,0,0
+1650009336354,129,Item1-89,200,OK,AddToCart 4-20,text,true,,5051,517,7,7,https://www.demoblaze.com/index.html,126,0,78
+1650009335560,920,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-20,,true,,6256,2027,7,7,null,917,2,78
+1650009336241,281,PlaceOrder-330,200,OK,AddToCart 4-15,text,true,,316,468,7,7,https://api.demoblaze.com/deletecart,281,0,0
+1650009335981,540,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-15,,true,,765,950,7,7,null,540,0,0
+1650009336247,295,Login-39,200,OK,AddToCart 4-21,text,true,,463,488,6,6,https://api.demoblaze.com/login,295,0,0
+1650009335923,617,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-21,,true,,912,965,6,6,null,617,1,69
+1650009336259,307,Item4-191,200,OK,AddToCart 4-18,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,307,0,0
+1650009336308,260,Delete1-237,200,OK,AddToCart 4-17,text,true,,449,482,6,6,https://api.demoblaze.com/deleteitem,260,0,0
+1650009336567,48,Item4-192,200,OK,AddToCart 4-18,text,true,,5146,517,6,6,https://www.demoblaze.com/index.html,44,0,0
+1650009335955,656,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-18,,true,,11388,2068,6,6,null,649,3,0
+1650009336615,49,Cart-218,200,OK,AddToCart 4-18,text,true,,6061,510,6,6,https://www.demoblaze.com/cart.html,45,0,0
+1650009336443,275,PlaceOrder-330,200,OK,AddToCart 4-16,text,true,,320,468,6,6,https://api.demoblaze.com/deletecart,275,0,0
+1650009336195,522,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-16,,true,,769,950,6,6,null,522,1,0
+1650009336463,262,Item3-156,200,OK,AddToCart 4-19,text,true,,449,481,5,5,https://api.demoblaze.com/addtocart,262,0,0
+1650009336484,271,Item2-106,200,OK,AddToCart 4-20,text,true,,5705,517,5,5,https://www.demoblaze.com/prod.html?idp_=5,269,0,0
+1650009336543,261,Item1-80,200,OK,AddToCart 4-21,text,true,,449,476,5,5,https://api.demoblaze.com/view,261,0,0
+1650009336568,304,Delete1-238,200,OK,AddToCart 4-17,text,true,,316,493,5,5,https://api.demoblaze.com/deleteitem,304,0,0
+1650009336873,48,Delete1-239,200,OK,AddToCart 4-17,text,true,,5962,482,6,6,https://www.demoblaze.com/cart.html,45,0,0
+1650009336664,257,Cart-225,200,OK,AddToCart 4-18,text,true,,449,480,6,6,https://api.demoblaze.com/viewcart,257,0,0
+1650009336615,306,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-18,,true,,6510,990,6,6,null,302,0,0
+1650009336755,243,Item2-121,200,OK,AddToCart 4-20,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,243,0,0
+1650009336725,309,Item3-157,200,OK,AddToCart 4-19,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,309,0,0
+1650009336804,251,Item1-84,200,OK,AddToCart 4-21,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,251,0,0
+1650009337034,49,Item3-158,200,OK,AddToCart 4-19,text,true,,4949,517,6,6,https://www.demoblaze.com/index.html,48,0,0
+1650009336415,668,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-19,,true,,11155,2068,6,6,null,664,0,0
+1650009337084,47,Item4-184,200,OK,AddToCart 4-19,text,true,,5591,517,6,6,https://www.demoblaze.com/prod.html?idp_=9,45,0,0
+1650009336921,253,Delete1-237,200,OK,AddToCart 4-18,text,true,,449,482,6,6,https://api.demoblaze.com/deleteitem,253,0,0
+1650009336921,258,Delete1-255,200,OK,AddToCart 4-17,text,true,,449,480,6,6,https://api.demoblaze.com/viewcart,258,0,0
+1650009336308,870,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-17,,true,,7176,1937,6,6,null,867,1,0
+1650009336921,322,Login-38,200,OK,AddToCart 4-22,text,true,,449,477,6,6,https://api.demoblaze.com/login,322,0,69
+1650009336998,292,Item2-122,200,OK,AddToCart 4-20,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,292,0,0
+1650009337055,290,Item1-85,200,OK,AddToCart 4-21,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,290,0,0
+1650009337131,252,Item4-190,200,OK,AddToCart 4-19,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,252,0,0
+1650009337179,250,PlaceOrder-329,200,OK,AddToCart 4-17,text,true,,449,482,6,6,https://api.demoblaze.com/deletecart,250,0,0
+1650009337175,287,Delete1-238,200,OK,AddToCart 4-18,text,true,,316,493,6,6,https://api.demoblaze.com/deleteitem,287,0,0
+1650009337346,123,Item1-89,200,OK,AddToCart 4-21,text,true,,19902,517,6,6,https://www.demoblaze.com/index.html,107,0,61
+1650009336542,925,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-21,,true,,21107,2027,6,6,null,909,2,61
+1650009337462,49,Delete1-239,200,OK,AddToCart 4-18,text,true,,5846,482,6,6,https://www.demoblaze.com/cart.html,46,0,0
+1650009337469,48,Item2-106,200,OK,AddToCart 4-21,text,true,,5635,517,6,6,https://www.demoblaze.com/prod.html?idp_=5,44,0,0
+1650009337243,294,Login-39,200,OK,AddToCart 4-22,text,true,,647,488,6,6,https://api.demoblaze.com/login,291,0,0
+1650009336920,616,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-22,,true,,1096,965,6,6,null,613,1,69
+1650009337290,261,Item2-123,200,OK,AddToCart 4-20,text,true,,5013,517,6,6,https://www.demoblaze.com/index.html,258,0,0
+1650009336483,1067,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-20,,true,,11474,2068,6,6,null,1062,1,0
+1650009337551,52,Item3-149,200,OK,AddToCart 4-20,text,true,,5619,517,6,6,https://www.demoblaze.com/prod.html?idp_=8,49,0,0
+1650009337383,385,Item4-191,200,OK,AddToCart 4-19,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,385,0,0
+1650009337430,338,PlaceOrder-330,200,OK,AddToCart 4-17,text,true,,316,466,6,6,https://api.demoblaze.com/deletecart,338,0,0
+1650009337179,588,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-17,,true,,765,948,6,6,null,588,1,0
+1650009337511,258,Delete1-255,200,OK,AddToCart 4-18,text,true,,449,480,6,6,https://api.demoblaze.com/viewcart,258,0,0
+1650009336921,847,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-18,,true,,7060,1937,6,6,null,844,1,0
+1650009337517,256,Item2-121,200,OK,AddToCart 4-21,text,true,,449,481,5,5,https://api.demoblaze.com/addtocart,256,0,0
+1650009337537,253,Item1-80,200,OK,AddToCart 4-22,text,true,,449,476,5,5,https://api.demoblaze.com/view,253,0,0
+1650009337769,57,Item4-192,200,OK,AddToCart 4-19,text,true,,5033,517,5,5,https://www.demoblaze.com/index.html,54,0,0
+1650009337083,741,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-19,,true,,11380,2068,5,5,null,736,2,0
+1650009337603,254,Item3-156,200,OK,AddToCart 4-20,text,true,,449,481,5,5,https://api.demoblaze.com/addtocart,254,0,0
+1650009337826,52,Cart-218,200,OK,AddToCart 4-19,text,true,,6055,510,5,5,https://www.demoblaze.com/cart.html,48,0,0
+1650009337769,253,PlaceOrder-329,200,OK,AddToCart 4-18,text,true,,449,482,6,6,https://api.demoblaze.com/deletecart,253,0,0
+1650009337790,253,Item1-84,200,OK,AddToCart 4-22,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,253,0,0
+1650009337773,286,Item2-122,200,OK,AddToCart 4-21,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,286,0,0
+1650009338059,58,Item2-123,200,OK,AddToCart 4-21,text,true,,19902,517,6,6,https://www.demoblaze.com/index.html,45,0,0
+1650009337469,648,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-21,,true,,26293,2068,6,6,null,631,0,0
+1650009337878,254,Cart-225,200,OK,AddToCart 4-19,text,true,,449,480,6,6,https://api.demoblaze.com/viewcart,254,0,0
+1650009337826,306,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-19,,true,,6504,990,6,6,null,302,1,0
+1650009337857,301,Item3-157,200,OK,AddToCart 4-20,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,301,0,0
+1650009338117,47,Item3-149,200,OK,AddToCart 4-21,text,true,,5548,517,6,6,https://www.demoblaze.com/prod.html?idp_=8,44,0,0
+1650009337925,325,Login-38,200,OK,AddToCart 4-23,text,true,,449,477,6,6,https://api.demoblaze.com/login,325,0,67
+1650009338023,275,PlaceOrder-330,200,OK,AddToCart 4-18,text,true,,316,469,6,6,https://api.demoblaze.com/deletecart,275,0,0
+1650009337769,528,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-18,,true,,765,951,6,6,null,528,1,0
+1650009338043,305,Item1-85,200,OK,AddToCart 4-22,text,true,,307,553,5,5,https://api.demoblaze.com/addtocart,305,0,0
+1650009338133,258,Delete1-237,200,OK,AddToCart 4-19,text,true,,449,482,5,5,https://api.demoblaze.com/deleteitem,258,0,0
+1650009338164,253,Item3-156,200,OK,AddToCart 4-21,text,true,,449,481,5,5,https://api.demoblaze.com/addtocart,253,0,0
+1650009338158,261,Item3-158,200,OK,AddToCart 4-20,text,true,,19902,517,5,5,https://www.demoblaze.com/index.html,243,0,0
+1650009337551,868,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-20,,true,,26277,2068,5,5,null,847,0,0
+1650009338419,47,Item4-184,200,OK,AddToCart 4-20,text,true,,5594,517,5,5,https://www.demoblaze.com/prod.html?idp_=9,45,0,0
+1650009338349,119,Item1-89,200,OK,AddToCart 4-22,text,true,,5162,517,5,5,https://www.demoblaze.com/index.html,115,0,71
+1650009337537,930,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-22,,true,,6367,2027,5,5,null,926,1,71
+1650009338250,287,Login-39,200,OK,AddToCart 4-23,text,true,,457,487,5,5,https://api.demoblaze.com/login,285,0,0
+1650009337924,612,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-23,,true,,906,964,5,5,null,610,1,67
+1650009338392,314,Delete1-238,200,OK,AddToCart 4-19,text,true,,316,493,5,5,https://api.demoblaze.com/deleteitem,314,0,0
+1650009338418,296,Item3-157,200,OK,AddToCart 4-21,text,true,,307,553,5,5,https://api.demoblaze.com/addtocart,296,0,0
+1650009338468,249,Item2-106,200,OK,AddToCart 4-22,text,true,,5677,517,5,5,https://www.demoblaze.com/prod.html?idp_=5,246,0,0
+1650009338706,50,Delete1-239,200,OK,AddToCart 4-19,text,true,,5946,482,5,5,https://www.demoblaze.com/cart.html,46,0,0
+1650009338715,48,Item3-158,200,OK,AddToCart 4-21,text,true,,5137,517,5,5,https://www.demoblaze.com/index.html,45,0,0
+1650009338117,644,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-21,,true,,11441,2068,5,5,null,638,2,0
+1650009338466,305,Item4-190,200,OK,AddToCart 4-20,text,true,,449,481,5,5,https://api.demoblaze.com/addtocart,305,0,0
+1650009338537,250,Item1-80,200,OK,AddToCart 4-23,text,true,,449,476,5,5,https://api.demoblaze.com/view,250,0,0
+1650009338763,48,Item4-184,200,OK,AddToCart 4-21,text,true,,5795,517,5,5,https://www.demoblaze.com/prod.html?idp_=9,45,0,0
+1650009338717,257,Item2-121,200,OK,AddToCart 4-22,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,257,0,0
+1650009338756,252,Delete1-255,200,OK,AddToCart 4-19,text,true,,449,480,6,6,https://api.demoblaze.com/viewcart,252,0,0
+1650009338133,874,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-19,,true,,7160,1937,6,6,null,870,1,0
+1650009338788,248,Item1-84,200,OK,AddToCart 4-23,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,248,0,0
+1650009338771,288,Item4-191,200,OK,AddToCart 4-20,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,288,0,0
+1650009338811,249,Item4-190,200,OK,AddToCart 4-21,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,249,0,0
+1650009339059,48,Item4-192,200,OK,AddToCart 4-20,text,true,,4986,517,6,6,https://www.demoblaze.com/index.html,45,0,0
+1650009338419,688,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-20,,true,,11336,2068,6,6,null,683,0,0
+1650009339107,48,Cart-218,200,OK,AddToCart 4-20,text,true,,5953,510,6,6,https://www.demoblaze.com/cart.html,45,0,0
+1650009338919,319,Login-38,200,OK,AddToCart 4-24,text,true,,449,477,6,6,https://api.demoblaze.com/login,319,0,68
+1650009339009,248,PlaceOrder-329,200,OK,AddToCart 4-19,text,true,,449,482,6,6,https://api.demoblaze.com/deletecart,248,0,0
+1650009338974,294,Item2-122,200,OK,AddToCart 4-22,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,294,0,0
+1650009339036,295,Item1-85,200,OK,AddToCart 4-23,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,295,0,0
+1650009339060,306,Item4-191,200,OK,AddToCart 4-21,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,306,0,0
+1650009339155,258,Cart-225,200,OK,AddToCart 4-20,text,true,,449,480,6,6,https://api.demoblaze.com/viewcart,258,0,0
+1650009339107,306,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-20,,true,,6402,990,6,6,null,303,0,0
+1650009339367,47,Item4-192,200,OK,AddToCart 4-21,text,true,,5124,517,6,6,https://www.demoblaze.com/index.html,44,0,0
+1650009338763,650,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-21,,true,,11675,2068,6,6,null,644,1,0
+1650009339332,141,Item1-89,200,OK,AddToCart 4-23,text,true,,19902,517,6,6,https://www.demoblaze.com/index.html,121,0,75
+1650009338537,934,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-23,,true,,21107,2027,6,6,null,914,2,75
+1650009339258,261,PlaceOrder-330,200,OK,AddToCart 4-19,text,true,,316,468,6,6,https://api.demoblaze.com/deletecart,261,0,0
+1650009339008,509,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-19,,true,,765,950,6,6,null,509,2,0
+1650009339473,61,Item2-106,200,OK,AddToCart 4-23,text,true,,5470,517,5,5,https://www.demoblaze.com/prod.html?idp_=5,46,0,0
+1650009339239,297,Login-39,200,OK,AddToCart 4-24,text,true,,626,486,5,5,https://api.demoblaze.com/login,297,0,0
+1650009338918,616,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-24,,true,,1075,963,5,5,null,616,3,68
+1650009339268,270,Item2-123,200,OK,AddToCart 4-22,text,true,,19902,517,5,5,https://www.demoblaze.com/index.html,266,0,0
+1650009338468,1070,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-22,,true,,26335,2068,5,5,null,1063,0,0
+1650009339539,58,Item3-149,200,OK,AddToCart 4-22,text,true,,5626,517,5,5,https://www.demoblaze.com/prod.html?idp_=8,45,0,0
+1650009339413,251,Delete1-237,200,OK,AddToCart 4-20,text,true,,449,482,5,5,https://api.demoblaze.com/deleteitem,251,0,0
+1650009339414,255,Cart-218,200,OK,AddToCart 4-21,text,true,,5992,510,5,5,https://www.demoblaze.com/cart.html,252,0,0
+1650009339537,251,Item1-80,200,OK,AddToCart 4-24,text,true,,449,476,5,5,https://api.demoblaze.com/view,251,0,0
+1650009339535,253,Item2-121,200,OK,AddToCart 4-23,text,true,,449,481,5,5,https://api.demoblaze.com/addtocart,253,0,0
+1650009339598,245,Item3-156,200,OK,AddToCart 4-22,text,true,,449,481,5,5,https://api.demoblaze.com/addtocart,245,0,0
+1650009339669,255,Cart-225,200,OK,AddToCart 4-21,text,true,,449,480,6,6,https://api.demoblaze.com/viewcart,255,0,0
+1650009339414,510,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-21,,true,,6441,990,6,6,null,507,0,0
+1650009339665,302,Delete1-238,200,OK,AddToCart 4-20,text,true,,316,493,6,6,https://api.demoblaze.com/deleteitem,302,0,0
+1650009339967,50,Delete1-239,200,OK,AddToCart 4-20,text,true,,5931,482,6,6,https://www.demoblaze.com/cart.html,47,0,0
+1650009339789,249,Item1-84,200,OK,AddToCart 4-24,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,249,0,0
+1650009339789,320,Item2-122,200,OK,AddToCart 4-23,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,320,0,0
+1650009339843,290,Item3-157,200,OK,AddToCart 4-22,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,290,0,0
+1650009340109,48,Item2-123,200,OK,AddToCart 4-23,text,true,,5063,517,6,6,https://www.demoblaze.com/index.html,46,0,0
+1650009339473,682,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-23,,true,,11289,2068,6,6,null,665,2,0
+1650009339924,240,Delete1-237,200,OK,AddToCart 4-21,text,true,,449,482,6,6,https://api.demoblaze.com/deleteitem,240,0,0
+1650009340133,61,Item3-158,200,OK,AddToCart 4-22,text,true,,19902,517,6,6,https://www.demoblaze.com/index.html,48,0,0
+1650009339538,654,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-22,,true,,26284,2068,6,6,null,628,2,0
+1650009340157,47,Item3-149,200,OK,AddToCart 4-23,text,true,,5547,517,6,6,https://www.demoblaze.com/prod.html?idp_=8,44,0,0
+1650009339910,318,Login-38,200,OK,AddToCart 4-25,text,true,,449,477,6,6,https://api.demoblaze.com/login,318,0,66
+1650009340194,46,Item4-184,200,OK,AddToCart 4-22,text,true,,5535,517,6,6,https://www.demoblaze.com/prod.html?idp_=9,44,0,0
+1650009340017,256,Delete1-255,200,OK,AddToCart 4-20,text,true,,449,480,6,6,https://api.demoblaze.com/viewcart,256,0,0
+1650009339413,859,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-20,,true,,7145,1937,6,6,null,856,1,0
+1650009340038,327,Item1-85,200,OK,AddToCart 4-24,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,327,0,0
+1650009340204,249,Item3-156,200,OK,AddToCart 4-23,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,249,0,0
+1650009340164,292,Delete1-238,200,OK,AddToCart 4-21,text,true,,316,493,6,6,https://api.demoblaze.com/deleteitem,292,0,0
+1650009340366,121,Item1-89,200,OK,AddToCart 4-24,text,true,,5038,517,6,6,https://www.demoblaze.com/index.html,116,0,68
+1650009339537,948,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-24,,true,,6243,2027,6,6,null,943,2,68
+1650009340241,248,Item4-190,200,OK,AddToCart 4-22,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,248,0,0
+1650009340457,47,Delete1-239,200,OK,AddToCart 4-21,text,true,,6044,482,6,6,https://www.demoblaze.com/cart.html,45,0,0
+1650009340273,251,PlaceOrder-329,200,OK,AddToCart 4-20,text,true,,449,482,6,6,https://api.demoblaze.com/deletecart,251,0,0
+1650009340488,54,Item2-106,200,OK,AddToCart 4-24,text,true,,5446,517,6,6,https://www.demoblaze.com/prod.html?idp_=5,51,0,0
+1650009340228,318,Login-39,200,OK,AddToCart 4-25,text,true,,553,486,6,6,https://api.demoblaze.com/login,315,0,0
+1650009339909,636,Login,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-25,,true,,1002,963,6,6,null,633,1,66
+1650009340454,282,Item3-157,200,OK,AddToCart 4-23,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,282,0,0
+1650009340505,250,Delete1-255,200,OK,AddToCart 4-21,text,true,,449,480,6,6,https://api.demoblaze.com/viewcart,250,0,0
+1650009339924,829,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-21,,true,,7258,1937,6,6,null,827,2,0
+1650009340490,292,Item4-191,200,OK,AddToCart 4-22,text,true,,307,553,6,6,https://api.demoblaze.com/addtocart,292,0,0
+1650009340736,47,Item3-158,200,OK,AddToCart 4-23,text,true,,5033,517,6,6,https://www.demoblaze.com/index.html,44,0,0
+1650009340157,625,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-23,,true,,11336,2068,6,6,null,619,1,0
+1650009340542,248,Item2-121,200,OK,AddToCart 4-24,text,true,,449,481,6,6,https://api.demoblaze.com/addtocart,248,0,0
+1650009340546,254,Item1-80,200,OK,AddToCart 4-25,text,true,,449,476,6,6,https://api.demoblaze.com/view,254,0,0
+1650009340525,283,PlaceOrder-330,200,OK,AddToCart 4-20,text,true,,316,466,6,6,https://api.demoblaze.com/deletecart,283,0,0
+1650009340273,534,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-20,,true,,765,948,6,6,null,534,1,0
+1650009340783,47,Item4-184,200,OK,AddToCart 4-23,text,true,,5526,517,5,5,https://www.demoblaze.com/prod.html?idp_=9,45,0,0
+1650009340782,58,Item4-192,200,OK,AddToCart 4-22,text,true,,19902,517,5,5,https://www.demoblaze.com/index.html,44,0,0
+1650009340194,644,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-22,,true,,26193,2068,5,5,null,628,2,0
+1650009340840,47,Cart-218,200,OK,AddToCart 4-22,text,true,,5844,510,5,5,https://www.demoblaze.com/cart.html,44,0,0
+1650009340756,246,PlaceOrder-329,200,OK,AddToCart 4-21,text,true,,449,482,5,5,https://api.demoblaze.com/deletecart,246,0,0
+1650009340801,252,Item1-84,200,OK,AddToCart 4-25,text,true,,449,481,5,5,https://api.demoblaze.com/addtocart,252,0,0
+1650009340790,290,Item2-122,200,OK,AddToCart 4-24,text,true,,307,553,5,5,https://api.demoblaze.com/addtocart,290,0,0
+1650009340830,257,Item4-190,200,OK,AddToCart 4-23,text,true,,449,481,5,5,https://api.demoblaze.com/addtocart,257,0,0
+1650009340887,253,Cart-225,200,OK,AddToCart 4-22,text,true,,449,480,5,5,https://api.demoblaze.com/viewcart,253,0,0
+1650009340840,300,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-22,,true,,6293,990,5,5,null,297,0,0
+1650009341079,62,Item2-123,200,OK,AddToCart 4-24,text,true,,19902,517,5,5,https://www.demoblaze.com/index.html,45,0,0
+1650009340487,654,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-24,,true,,26104,2068,5,5,null,634,1,0
+1650009341141,49,Item3-149,200,OK,AddToCart 4-24,text,true,,5536,517,5,5,https://www.demoblaze.com/prod.html?idp_=8,47,0,0
+1650009341003,280,PlaceOrder-330,200,OK,AddToCart 4-21,text,true,,316,469,5,5,https://api.demoblaze.com/deletecart,280,0,0
+1650009340755,526,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-21,,true,,765,951,5,5,null,526,3,0
+1650009341053,298,Item1-85,200,OK,AddToCart 4-25,text,true,,307,553,4,4,https://api.demoblaze.com/addtocart,298,0,0
+1650009341086,296,Item4-191,200,OK,AddToCart 4-23,text,true,,307,553,4,4,https://api.demoblaze.com/addtocart,296,0,0
+1650009341139,251,Delete1-237,200,OK,AddToCart 4-22,text,true,,449,482,4,4,https://api.demoblaze.com/deleteitem,251,0,0
+1650009341190,251,Item3-156,200,OK,AddToCart 4-24,text,true,,449,481,4,4,https://api.demoblaze.com/addtocart,251,0,0
+1650009341382,246,Item4-192,200,OK,AddToCart 4-23,text,true,,5169,517,4,4,https://www.demoblaze.com/index.html,242,0,0
+1650009340783,846,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-23,,true,,11451,2068,4,4,null,840,0,0
+1650009341352,315,Item1-89,200,OK,AddToCart 4-25,text,true,,5165,517,4,4,https://www.demoblaze.com/index.html,312,0,64
+1650009340546,1119,Item1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-25,,true,,6370,2027,4,4,null,1116,3,64
+1650009341628,48,Cart-218,200,OK,AddToCart 4-23,text,true,,5982,510,4,4,https://www.demoblaze.com/cart.html,47,0,0
+1650009341391,316,Delete1-238,200,OK,AddToCart 4-22,text,true,,316,493,4,4,https://api.demoblaze.com/deleteitem,316,0,0
+1650009341441,292,Item3-157,200,OK,AddToCart 4-24,text,true,,307,553,4,4,https://api.demoblaze.com/addtocart,292,0,0
+1650009341707,47,Delete1-239,200,OK,AddToCart 4-22,text,true,,5952,482,4,4,https://www.demoblaze.com/cart.html,45,0,0
+1650009341733,51,Item3-158,200,OK,AddToCart 4-24,text,true,,5227,517,4,4,https://www.demoblaze.com/index.html,49,0,0
+1650009341141,643,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-24,,true,,11519,2068,4,4,null,639,0,0
+1650009341785,48,Item4-184,200,OK,AddToCart 4-24,text,true,,5398,517,4,4,https://www.demoblaze.com/prod.html?idp_=9,45,0,0
+1650009341676,252,Cart-225,200,OK,AddToCart 4-23,text,true,,449,480,4,4,https://api.demoblaze.com/viewcart,252,0,0
+1650009341628,300,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-23,,true,,6431,990,4,4,null,299,0,0
+1650009341668,263,Item2-106,200,OK,AddToCart 4-25,text,true,,5598,517,4,4,https://www.demoblaze.com/prod.html?idp_=5,260,0,0
+1650009341754,257,Delete1-255,200,OK,AddToCart 4-22,text,true,,449,480,4,4,https://api.demoblaze.com/viewcart,257,0,0
+1650009341139,871,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-22,,true,,7166,1937,4,4,null,869,1,0
+1650009341833,250,Item4-190,200,OK,AddToCart 4-24,text,true,,449,481,4,4,https://api.demoblaze.com/addtocart,250,0,0
+1650009341929,254,Delete1-237,200,OK,AddToCart 4-23,text,true,,449,482,4,4,https://api.demoblaze.com/deleteitem,254,0,0
+1650009341932,258,Item2-121,200,OK,AddToCart 4-25,text,true,,449,481,4,4,https://api.demoblaze.com/addtocart,258,0,0
+1650009342012,260,PlaceOrder-329,200,OK,AddToCart 4-22,text,true,,449,482,4,4,https://api.demoblaze.com/deletecart,260,0,0
+1650009342084,314,Item4-191,200,OK,AddToCart 4-24,text,true,,307,553,4,4,https://api.demoblaze.com/addtocart,314,0,0
+1650009342183,257,Delete1-238,200,OK,AddToCart 4-23,text,true,,547,493,4,4,https://api.demoblaze.com/deleteitem,257,0,0
+1650009342398,53,Item4-192,200,OK,AddToCart 4-24,text,true,,4957,517,4,4,https://www.demoblaze.com/index.html,52,0,0
+1650009341785,665,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-24,,true,,11111,2068,4,4,null,661,1,0
+1650009342191,285,Item2-122,200,OK,AddToCart 4-25,text,true,,307,553,4,4,https://api.demoblaze.com/addtocart,285,0,0
+1650009342441,57,Delete1-239,200,OK,AddToCart 4-23,text,true,,5991,482,4,4,https://www.demoblaze.com/cart.html,53,0,0
+1650009342451,56,Cart-218,200,OK,AddToCart 4-24,text,true,,5919,510,4,4,https://www.demoblaze.com/cart.html,52,0,0
+1650009342477,60,Item2-123,200,OK,AddToCart 4-25,text,true,,19902,517,4,4,https://www.demoblaze.com/index.html,44,0,0
+1650009341667,866,Item2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-25,,true,,26256,2068,4,4,null,847,4,0
+1650009342273,277,PlaceOrder-330,200,OK,AddToCart 4-22,text,true,,316,469,4,4,https://api.demoblaze.com/deletecart,277,0,0
+1650009342011,537,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-22,,true,,765,951,4,4,null,537,3,0
+1650009342499,252,Delete1-255,200,OK,AddToCart 4-23,text,true,,449,480,3,3,https://api.demoblaze.com/viewcart,252,0,0
+1650009341928,820,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-23,,true,,7436,1937,3,3,null,816,3,0
+1650009342507,252,Cart-225,200,OK,AddToCart 4-24,text,true,,449,480,3,3,https://api.demoblaze.com/viewcart,252,0,0
+1650009342451,308,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-24,,true,,6368,990,3,3,null,304,1,0
+1650009342537,251,Item3-149,200,OK,AddToCart 4-25,text,true,,5615,517,3,3,https://www.demoblaze.com/prod.html?idp_=8,248,0,0
+1650009342760,256,Delete1-237,200,OK,AddToCart 4-24,text,true,,449,482,3,3,https://api.demoblaze.com/deleteitem,256,0,0
+1650009342751,265,PlaceOrder-329,200,OK,AddToCart 4-23,text,true,,449,482,3,3,https://api.demoblaze.com/deletecart,265,0,0
+1650009342788,254,Item3-156,200,OK,AddToCart 4-25,text,true,,449,481,3,3,https://api.demoblaze.com/addtocart,254,0,0
+1650009343017,277,Delete1-238,200,OK,AddToCart 4-24,text,true,,652,493,3,3,https://api.demoblaze.com/deleteitem,274,0,0
+1650009343017,285,PlaceOrder-330,200,OK,AddToCart 4-23,text,true,,316,468,3,3,https://api.demoblaze.com/deletecart,285,0,0
+1650009342751,550,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-23,,true,,765,950,3,3,null,550,1,0
+1650009343042,332,Item3-157,200,OK,AddToCart 4-25,text,true,,307,553,2,2,https://api.demoblaze.com/addtocart,332,0,0
+1650009343374,49,Item3-158,200,OK,AddToCart 4-25,text,true,,5103,517,2,2,https://www.demoblaze.com/index.html,46,0,0
+1650009342537,886,Item3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-25,,true,,11474,2068,2,2,null,880,0,0
+1650009343423,50,Item4-184,200,OK,AddToCart 4-25,text,true,,5639,517,2,2,https://www.demoblaze.com/prod.html?idp_=9,47,0,0
+1650009343294,253,Delete1-239,200,OK,AddToCart 4-24,text,true,,5847,482,2,2,https://www.demoblaze.com/cart.html,251,0,0
+1650009343473,251,Item4-190,200,OK,AddToCart 4-25,text,true,,449,481,2,2,https://api.demoblaze.com/addtocart,251,0,0
+1650009343548,261,Delete1-255,200,OK,AddToCart 4-24,text,true,,449,480,2,2,https://api.demoblaze.com/viewcart,261,0,0
+1650009342760,1047,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-24,,true,,7397,1937,2,2,null,1042,2,0
+1650009343809,248,PlaceOrder-329,200,OK,AddToCart 4-24,text,true,,449,482,2,2,https://api.demoblaze.com/deletecart,248,0,0
+1650009343725,343,Item4-191,200,OK,AddToCart 4-25,text,true,,307,553,2,2,https://api.demoblaze.com/addtocart,343,0,0
+1650009344068,48,Item4-192,200,OK,AddToCart 4-25,text,true,,5171,517,2,2,https://www.demoblaze.com/index.html,44,0,0
+1650009343423,692,Item4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-25,,true,,11566,2068,2,2,null,685,1,0
+1650009344116,50,Cart-218,200,OK,AddToCart 4-25,text,true,,5937,510,2,2,https://www.demoblaze.com/cart.html,49,0,0
+1650009344057,266,PlaceOrder-330,200,OK,AddToCart 4-24,text,true,,316,467,2,2,https://api.demoblaze.com/deletecart,266,0,0
+1650009343809,514,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-24,,true,,765,949,2,2,null,514,1,0
+1650009344166,252,Cart-225,200,OK,AddToCart 4-25,text,true,,449,480,1,1,https://api.demoblaze.com/viewcart,252,0,0
+1650009344116,302,Cart,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-25,,true,,6386,990,1,1,null,301,0,0
+1650009344419,253,Delete1-237,200,OK,AddToCart 4-25,text,true,,449,482,1,1,https://api.demoblaze.com/deleteitem,253,0,0
+1650009344673,270,Delete1-238,200,OK,AddToCart 4-25,text,true,,502,493,1,1,https://api.demoblaze.com/deleteitem,268,0,0
+1650009344944,46,Delete1-239,200,OK,AddToCart 4-25,text,true,,6032,482,1,1,https://www.demoblaze.com/cart.html,43,0,0
+1650009344991,250,Delete1-255,200,OK,AddToCart 4-25,text,true,,449,480,1,1,https://api.demoblaze.com/viewcart,250,0,0
+1650009344418,819,Delete1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddToCart 4-25,,true,,7432,1937,1,1,null,814,5,0
+1650009345242,258,PlaceOrder-329,200,OK,AddToCart 4-25,text,true,,449,482,1,1,https://api.demoblaze.com/deletecart,258,0,0
+1650009345501,280,PlaceOrder-330,200,OK,AddToCart 4-25,text,true,,316,467,1,1,https://api.demoblaze.com/deletecart,280,0,0
+1650009345242,538,PlaceOrder,200,"Number of samples in transaction : 2, number of failing samples : 0",AddToCart 4-25,,true,,765,949,1,1,null,538,2,0
